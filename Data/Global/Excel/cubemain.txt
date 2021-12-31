@@ -602,6 +602,818 @@ Flawless Skull Downgrade	1			0					1	skl							sku																														
 Perfect Skull Downgrade	1			0					1	skz							skl																																																																																							0
 el + hel + any armor -> normal armor	1			100					3	"armo,any"	r1	r15					"usetype,nor"	90		99																																																																																				0
 el + hel + any weapon -> normal weapon	1			100					3	"weap,any"	r1	r15					"usetype,nor"	90		99																																																																																				0
+2 Stacked Chipped Amethyst -> 1 Stacked Flawed Amethyst	1			0	18	70	2		1	1cv							1fv,qty=1																																																																																							0
+3 Stacked Chipped Amethyst -> 1 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	3		1	1cv							1fv,qty=1																													1cv,qty=1																																																										0
+4 Stacked Chipped Amethyst -> 2 Stacked Flawed Amethyst	1			0	18	70	4		1	1cv							1fv,qty=2																																																																																							0
+5 Stacked Chipped Amethyst -> 2 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	5		1	1cv							1fv,qty=2																													1cv,qty=1																																																										0
+6 Stacked Chipped Amethyst -> 3 Stacked Flawed Amethyst	1			0	18	70	6		1	1cv							1fv,qty=3																																																																																							0
+7 Stacked Chipped Amethyst -> 3 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	7		1	1cv							1fv,qty=3																													1cv,qty=1																																																										0
+8 Stacked Chipped Amethyst -> 4 Stacked Flawed Amethyst	1			0	18	70	8		1	1cv							1fv,qty=4																																																																																							0
+9 Stacked Chipped Amethyst -> 4 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	9		1	1cv							1fv,qty=4																													1cv,qty=1																																																										0
+10 Stacked Chipped Amethyst -> 5 Stacked Flawed Amethyst	1			0	18	70	10		1	1cv							1fv,qty=5																																																																																							0
+11 Stacked Chipped Amethyst -> 5 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	11		1	1cv							1fv,qty=5																													1cv,qty=1																																																										0
+12 Stacked Chipped Amethyst -> 6 Stacked Flawed Amethyst	1			0	18	70	12		1	1cv							1fv,qty=6																																																																																							0
+13 Stacked Chipped Amethyst -> 6 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	13		1	1cv							1fv,qty=6																													1cv,qty=1																																																										0
+14 Stacked Chipped Amethyst -> 7 Stacked Flawed Amethyst	1			0	18	70	14		1	1cv							1fv,qty=7																																																																																							0
+15 Stacked Chipped Amethyst -> 7 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	15		1	1cv							1fv,qty=7																													1cv,qty=1																																																										0
+16 Stacked Chipped Amethyst -> 8 Stacked Flawed Amethyst	1			0	18	70	16		1	1cv							1fv,qty=8																																																																																							0
+17 Stacked Chipped Amethyst -> 8 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	17		1	1cv							1fv,qty=8																													1cv,qty=1																																																										0
+18 Stacked Chipped Amethyst -> 9 Stacked Flawed Amethyst	1			0	18	70	18		1	1cv							1fv,qty=9																																																																																							0
+19 Stacked Chipped Amethyst -> 9 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	19		1	1cv							1fv,qty=9																													1cv,qty=1																																																										0
+20 Stacked Chipped Amethyst -> 10 Stacked Flawed Amethyst	1			0	18	70	20		1	1cv							1fv,qty=10																																																																																							0
+21 Stacked Chipped Amethyst -> 10 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	21		1	1cv							1fv,qty=10																													1cv,qty=1																																																										0
+22 Stacked Chipped Amethyst -> 11 Stacked Flawed Amethyst	1			0	18	70	22		1	1cv							1fv,qty=11																																																																																							0
+23 Stacked Chipped Amethyst -> 11 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	23		1	1cv							1fv,qty=11																													1cv,qty=1																																																										0
+24 Stacked Chipped Amethyst -> 12 Stacked Flawed Amethyst	1			0	18	70	24		1	1cv							1fv,qty=12																																																																																							0
+25 Stacked Chipped Amethyst -> 12 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	25		1	1cv							1fv,qty=12																													1cv,qty=1																																																										0
+26 Stacked Chipped Amethyst -> 13 Stacked Flawed Amethyst	1			0	18	70	26		1	1cv							1fv,qty=13																																																																																							0
+27 Stacked Chipped Amethyst -> 13 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	27		1	1cv							1fv,qty=13																													1cv,qty=1																																																										0
+28 Stacked Chipped Amethyst -> 14 Stacked Flawed Amethyst	1			0	18	70	28		1	1cv							1fv,qty=14																																																																																							0
+29 Stacked Chipped Amethyst -> 14 Stacked Flawed Amethyst + 1 Stacked Chipped Amethyst	1			0	18	70	29		1	1cv							1fv,qty=14																													1cv,qty=1																																																										0
+30 Stacked Chipped Amethyst -> 15 Stacked Flawed Amethyst	1			0	18	70	30		1	1cv							1fv,qty=15																																																																																							0
+2 Stacked Flawed Amethyst -> 1 Stacked Amethyst	1			0	18	70	2		1	1fv							1sv,qty=1																																																																																							0
+3 Stacked Flawed Amethyst -> 1 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	3		1	1fv							1sv,qty=1																													1fv,qty=1																																																										0
+4 Stacked Flawed Amethyst -> 2 Stacked Amethyst	1			0	18	70	4		1	1fv							1sv,qty=2																																																																																							0
+5 Stacked Flawed Amethyst -> 2 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	5		1	1fv							1sv,qty=2																													1fv,qty=1																																																										0
+6 Stacked Flawed Amethyst -> 3 Stacked Amethyst	1			0	18	70	6		1	1fv							1sv,qty=3																																																																																							0
+7 Stacked Flawed Amethyst -> 3 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	7		1	1fv							1sv,qty=3																													1fv,qty=1																																																										0
+8 Stacked Flawed Amethyst -> 4 Stacked Amethyst	1			0	18	70	8		1	1fv							1sv,qty=4																																																																																							0
+9 Stacked Flawed Amethyst -> 4 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	9		1	1fv							1sv,qty=4																													1fv,qty=1																																																										0
+10 Stacked Flawed Amethyst -> 5 Stacked Amethyst	1			0	18	70	10		1	1fv							1sv,qty=5																																																																																							0
+11 Stacked Flawed Amethyst -> 5 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	11		1	1fv							1sv,qty=5																													1fv,qty=1																																																										0
+12 Stacked Flawed Amethyst -> 6 Stacked Amethyst	1			0	18	70	12		1	1fv							1sv,qty=6																																																																																							0
+13 Stacked Flawed Amethyst -> 6 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	13		1	1fv							1sv,qty=6																													1fv,qty=1																																																										0
+14 Stacked Flawed Amethyst -> 7 Stacked Amethyst	1			0	18	70	14		1	1fv							1sv,qty=7																																																																																							0
+15 Stacked Flawed Amethyst -> 7 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	15		1	1fv							1sv,qty=7																													1fv,qty=1																																																										0
+16 Stacked Flawed Amethyst -> 8 Stacked Amethyst	1			0	18	70	16		1	1fv							1sv,qty=8																																																																																							0
+17 Stacked Flawed Amethyst -> 8 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	17		1	1fv							1sv,qty=8																													1fv,qty=1																																																										0
+18 Stacked Flawed Amethyst -> 9 Stacked Amethyst	1			0	18	70	18		1	1fv							1sv,qty=9																																																																																							0
+19 Stacked Flawed Amethyst -> 9 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	19		1	1fv							1sv,qty=9																													1fv,qty=1																																																										0
+20 Stacked Flawed Amethyst -> 10 Stacked Amethyst	1			0	18	70	20		1	1fv							1sv,qty=10																																																																																							0
+21 Stacked Flawed Amethyst -> 10 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	21		1	1fv							1sv,qty=10																													1fv,qty=1																																																										0
+22 Stacked Flawed Amethyst -> 11 Stacked Amethyst	1			0	18	70	22		1	1fv							1sv,qty=11																																																																																							0
+23 Stacked Flawed Amethyst -> 11 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	23		1	1fv							1sv,qty=11																													1fv,qty=1																																																										0
+24 Stacked Flawed Amethyst -> 12 Stacked Amethyst	1			0	18	70	24		1	1fv							1sv,qty=12																																																																																							0
+25 Stacked Flawed Amethyst -> 12 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	25		1	1fv							1sv,qty=12																													1fv,qty=1																																																										0
+26 Stacked Flawed Amethyst -> 13 Stacked Amethyst	1			0	18	70	26		1	1fv							1sv,qty=13																																																																																							0
+27 Stacked Flawed Amethyst -> 13 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	27		1	1fv							1sv,qty=13																													1fv,qty=1																																																										0
+28 Stacked Flawed Amethyst -> 14 Stacked Amethyst	1			0	18	70	28		1	1fv							1sv,qty=14																																																																																							0
+29 Stacked Flawed Amethyst -> 14 Stacked Amethyst + 1 Stacked Flawed Amethyst	1			0	18	70	29		1	1fv							1sv,qty=14																													1fv,qty=1																																																										0
+30 Stacked Flawed Amethyst -> 15 Stacked Amethyst	1			0	18	70	30		1	1fv							1sv,qty=15																																																																																							0
+2 Stacked Amethyst -> 1 Stacked Flawless Amethyst	1			0	18	70	2		1	1sv							1zv,qty=1																																																																																							0
+3 Stacked Amethyst -> 1 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	3		1	1sv							1zv,qty=1																													1sv,qty=1																																																										0
+4 Stacked Amethyst -> 2 Stacked Flawless Amethyst	1			0	18	70	4		1	1sv							1zv,qty=2																																																																																							0
+5 Stacked Amethyst -> 2 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	5		1	1sv							1zv,qty=2																													1sv,qty=1																																																										0
+6 Stacked Amethyst -> 3 Stacked Flawless Amethyst	1			0	18	70	6		1	1sv							1zv,qty=3																																																																																							0
+7 Stacked Amethyst -> 3 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	7		1	1sv							1zv,qty=3																													1sv,qty=1																																																										0
+8 Stacked Amethyst -> 4 Stacked Flawless Amethyst	1			0	18	70	8		1	1sv							1zv,qty=4																																																																																							0
+9 Stacked Amethyst -> 4 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	9		1	1sv							1zv,qty=4																													1sv,qty=1																																																										0
+10 Stacked Amethyst -> 5 Stacked Flawless Amethyst	1			0	18	70	10		1	1sv							1zv,qty=5																																																																																							0
+11 Stacked Amethyst -> 5 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	11		1	1sv							1zv,qty=5																													1sv,qty=1																																																										0
+12 Stacked Amethyst -> 6 Stacked Flawless Amethyst	1			0	18	70	12		1	1sv							1zv,qty=6																																																																																							0
+13 Stacked Amethyst -> 6 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	13		1	1sv							1zv,qty=6																													1sv,qty=1																																																										0
+14 Stacked Amethyst -> 7 Stacked Flawless Amethyst	1			0	18	70	14		1	1sv							1zv,qty=7																																																																																							0
+15 Stacked Amethyst -> 7 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	15		1	1sv							1zv,qty=7																													1sv,qty=1																																																										0
+16 Stacked Amethyst -> 8 Stacked Flawless Amethyst	1			0	18	70	16		1	1sv							1zv,qty=8																																																																																							0
+17 Stacked Amethyst -> 8 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	17		1	1sv							1zv,qty=8																													1sv,qty=1																																																										0
+18 Stacked Amethyst -> 9 Stacked Flawless Amethyst	1			0	18	70	18		1	1sv							1zv,qty=9																																																																																							0
+19 Stacked Amethyst -> 9 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	19		1	1sv							1zv,qty=9																													1sv,qty=1																																																										0
+20 Stacked Amethyst -> 10 Stacked Flawless Amethyst	1			0	18	70	20		1	1sv							1zv,qty=10																																																																																							0
+21 Stacked Amethyst -> 10 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	21		1	1sv							1zv,qty=10																													1sv,qty=1																																																										0
+22 Stacked Amethyst -> 11 Stacked Flawless Amethyst	1			0	18	70	22		1	1sv							1zv,qty=11																																																																																							0
+23 Stacked Amethyst -> 11 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	23		1	1sv							1zv,qty=11																													1sv,qty=1																																																										0
+24 Stacked Amethyst -> 12 Stacked Flawless Amethyst	1			0	18	70	24		1	1sv							1zv,qty=12																																																																																							0
+25 Stacked Amethyst -> 12 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	25		1	1sv							1zv,qty=12																													1sv,qty=1																																																										0
+26 Stacked Amethyst -> 13 Stacked Flawless Amethyst	1			0	18	70	26		1	1sv							1zv,qty=13																																																																																							0
+27 Stacked Amethyst -> 13 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	27		1	1sv							1zv,qty=13																													1sv,qty=1																																																										0
+28 Stacked Amethyst -> 14 Stacked Flawless Amethyst	1			0	18	70	28		1	1sv							1zv,qty=14																																																																																							0
+29 Stacked Amethyst -> 14 Stacked Flawless Amethyst + 1 Stacked Amethyst	1			0	18	70	29		1	1sv							1zv,qty=14																													1sv,qty=1																																																										0
+30 Stacked Amethyst -> 15 Stacked Flawless Amethyst	1			0	18	70	30		1	1sv							1zv,qty=15																																																																																							0
+2 Stacked Flawless Amethyst -> 1 Stacked Perfect Amethyst	1			0	18	70	2		1	1zv							1pv,qty=1																																																																																							0
+3 Stacked Flawless Amethyst -> 1 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	3		1	1zv							1pv,qty=1																													1zv,qty=1																																																										0
+4 Stacked Flawless Amethyst -> 2 Stacked Perfect Amethyst	1			0	18	70	4		1	1zv							1pv,qty=2																																																																																							0
+5 Stacked Flawless Amethyst -> 2 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	5		1	1zv							1pv,qty=2																													1zv,qty=1																																																										0
+6 Stacked Flawless Amethyst -> 3 Stacked Perfect Amethyst	1			0	18	70	6		1	1zv							1pv,qty=3																																																																																							0
+7 Stacked Flawless Amethyst -> 3 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	7		1	1zv							1pv,qty=3																													1zv,qty=1																																																										0
+8 Stacked Flawless Amethyst -> 4 Stacked Perfect Amethyst	1			0	18	70	8		1	1zv							1pv,qty=4																																																																																							0
+9 Stacked Flawless Amethyst -> 4 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	9		1	1zv							1pv,qty=4																													1zv,qty=1																																																										0
+10 Stacked Flawless Amethyst -> 5 Stacked Perfect Amethyst	1			0	18	70	10		1	1zv							1pv,qty=5																																																																																							0
+11 Stacked Flawless Amethyst -> 5 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	11		1	1zv							1pv,qty=5																													1zv,qty=1																																																										0
+12 Stacked Flawless Amethyst -> 6 Stacked Perfect Amethyst	1			0	18	70	12		1	1zv							1pv,qty=6																																																																																							0
+13 Stacked Flawless Amethyst -> 6 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	13		1	1zv							1pv,qty=6																													1zv,qty=1																																																										0
+14 Stacked Flawless Amethyst -> 7 Stacked Perfect Amethyst	1			0	18	70	14		1	1zv							1pv,qty=7																																																																																							0
+15 Stacked Flawless Amethyst -> 7 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	15		1	1zv							1pv,qty=7																													1zv,qty=1																																																										0
+16 Stacked Flawless Amethyst -> 8 Stacked Perfect Amethyst	1			0	18	70	16		1	1zv							1pv,qty=8																																																																																							0
+17 Stacked Flawless Amethyst -> 8 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	17		1	1zv							1pv,qty=8																													1zv,qty=1																																																										0
+18 Stacked Flawless Amethyst -> 9 Stacked Perfect Amethyst	1			0	18	70	18		1	1zv							1pv,qty=9																																																																																							0
+19 Stacked Flawless Amethyst -> 9 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	19		1	1zv							1pv,qty=9																													1zv,qty=1																																																										0
+20 Stacked Flawless Amethyst -> 10 Stacked Perfect Amethyst	1			0	18	70	20		1	1zv							1pv,qty=10																																																																																							0
+21 Stacked Flawless Amethyst -> 10 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	21		1	1zv							1pv,qty=10																													1zv,qty=1																																																										0
+22 Stacked Flawless Amethyst -> 11 Stacked Perfect Amethyst	1			0	18	70	22		1	1zv							1pv,qty=11																																																																																							0
+23 Stacked Flawless Amethyst -> 11 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	23		1	1zv							1pv,qty=11																													1zv,qty=1																																																										0
+24 Stacked Flawless Amethyst -> 12 Stacked Perfect Amethyst	1			0	18	70	24		1	1zv							1pv,qty=12																																																																																							0
+25 Stacked Flawless Amethyst -> 12 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	25		1	1zv							1pv,qty=12																													1zv,qty=1																																																										0
+26 Stacked Flawless Amethyst -> 13 Stacked Perfect Amethyst	1			0	18	70	26		1	1zv							1pv,qty=13																																																																																							0
+27 Stacked Flawless Amethyst -> 13 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	27		1	1zv							1pv,qty=13																													1zv,qty=1																																																										0
+28 Stacked Flawless Amethyst -> 14 Stacked Perfect Amethyst	1			0	18	70	28		1	1zv							1pv,qty=14																																																																																							0
+29 Stacked Flawless Amethyst -> 14 Stacked Perfect Amethyst + 1 Stacked Flawless Amethyst	1			0	18	70	29		1	1zv							1pv,qty=14																													1zv,qty=1																																																										0
+30 Stacked Flawless Amethyst -> 15 Stacked Perfect Amethyst	1			0	18	70	30		1	1zv							1pv,qty=15																																																																																							0
+2 Stacked Chipped Diamond -> 1 Stacked Flawed Diamond	1			0	18	70	2		1	1cw							1fw,qty=1																																																																																							0
+3 Stacked Chipped Diamond -> 1 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	3		1	1cw							1fw,qty=1																													1cw,qty=1																																																										0
+4 Stacked Chipped Diamond -> 2 Stacked Flawed Diamond	1			0	18	70	4		1	1cw							1fw,qty=2																																																																																							0
+5 Stacked Chipped Diamond -> 2 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	5		1	1cw							1fw,qty=2																													1cw,qty=1																																																										0
+6 Stacked Chipped Diamond -> 3 Stacked Flawed Diamond	1			0	18	70	6		1	1cw							1fw,qty=3																																																																																							0
+7 Stacked Chipped Diamond -> 3 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	7		1	1cw							1fw,qty=3																													1cw,qty=1																																																										0
+8 Stacked Chipped Diamond -> 4 Stacked Flawed Diamond	1			0	18	70	8		1	1cw							1fw,qty=4																																																																																							0
+9 Stacked Chipped Diamond -> 4 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	9		1	1cw							1fw,qty=4																													1cw,qty=1																																																										0
+10 Stacked Chipped Diamond -> 5 Stacked Flawed Diamond	1			0	18	70	10		1	1cw							1fw,qty=5																																																																																							0
+11 Stacked Chipped Diamond -> 5 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	11		1	1cw							1fw,qty=5																													1cw,qty=1																																																										0
+12 Stacked Chipped Diamond -> 6 Stacked Flawed Diamond	1			0	18	70	12		1	1cw							1fw,qty=6																																																																																							0
+13 Stacked Chipped Diamond -> 6 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	13		1	1cw							1fw,qty=6																													1cw,qty=1																																																										0
+14 Stacked Chipped Diamond -> 7 Stacked Flawed Diamond	1			0	18	70	14		1	1cw							1fw,qty=7																																																																																							0
+15 Stacked Chipped Diamond -> 7 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	15		1	1cw							1fw,qty=7																													1cw,qty=1																																																										0
+16 Stacked Chipped Diamond -> 8 Stacked Flawed Diamond	1			0	18	70	16		1	1cw							1fw,qty=8																																																																																							0
+17 Stacked Chipped Diamond -> 8 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	17		1	1cw							1fw,qty=8																													1cw,qty=1																																																										0
+18 Stacked Chipped Diamond -> 9 Stacked Flawed Diamond	1			0	18	70	18		1	1cw							1fw,qty=9																																																																																							0
+19 Stacked Chipped Diamond -> 9 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	19		1	1cw							1fw,qty=9																													1cw,qty=1																																																										0
+20 Stacked Chipped Diamond -> 10 Stacked Flawed Diamond	1			0	18	70	20		1	1cw							1fw,qty=10																																																																																							0
+21 Stacked Chipped Diamond -> 10 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	21		1	1cw							1fw,qty=10																													1cw,qty=1																																																										0
+22 Stacked Chipped Diamond -> 11 Stacked Flawed Diamond	1			0	18	70	22		1	1cw							1fw,qty=11																																																																																							0
+23 Stacked Chipped Diamond -> 11 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	23		1	1cw							1fw,qty=11																													1cw,qty=1																																																										0
+24 Stacked Chipped Diamond -> 12 Stacked Flawed Diamond	1			0	18	70	24		1	1cw							1fw,qty=12																																																																																							0
+25 Stacked Chipped Diamond -> 12 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	25		1	1cw							1fw,qty=12																													1cw,qty=1																																																										0
+26 Stacked Chipped Diamond -> 13 Stacked Flawed Diamond	1			0	18	70	26		1	1cw							1fw,qty=13																																																																																							0
+27 Stacked Chipped Diamond -> 13 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	27		1	1cw							1fw,qty=13																													1cw,qty=1																																																										0
+28 Stacked Chipped Diamond -> 14 Stacked Flawed Diamond	1			0	18	70	28		1	1cw							1fw,qty=14																																																																																							0
+29 Stacked Chipped Diamond -> 14 Stacked Flawed Diamond + 1 Stacked Chipped Diamond	1			0	18	70	29		1	1cw							1fw,qty=14																													1cw,qty=1																																																										0
+30 Stacked Chipped Diamond -> 15 Stacked Flawed Diamond	1			0	18	70	30		1	1cw							1fw,qty=15																																																																																							0
+2 Stacked Flawed Diamond -> 1 Stacked Diamond	1			0	18	70	2		1	1fw							1sw,qty=1																																																																																							0
+3 Stacked Flawed Diamond -> 1 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	3		1	1fw							1sw,qty=1																													1fw,qty=1																																																										0
+4 Stacked Flawed Diamond -> 2 Stacked Diamond	1			0	18	70	4		1	1fw							1sw,qty=2																																																																																							0
+5 Stacked Flawed Diamond -> 2 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	5		1	1fw							1sw,qty=2																													1fw,qty=1																																																										0
+6 Stacked Flawed Diamond -> 3 Stacked Diamond	1			0	18	70	6		1	1fw							1sw,qty=3																																																																																							0
+7 Stacked Flawed Diamond -> 3 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	7		1	1fw							1sw,qty=3																													1fw,qty=1																																																										0
+8 Stacked Flawed Diamond -> 4 Stacked Diamond	1			0	18	70	8		1	1fw							1sw,qty=4																																																																																							0
+9 Stacked Flawed Diamond -> 4 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	9		1	1fw							1sw,qty=4																													1fw,qty=1																																																										0
+10 Stacked Flawed Diamond -> 5 Stacked Diamond	1			0	18	70	10		1	1fw							1sw,qty=5																																																																																							0
+11 Stacked Flawed Diamond -> 5 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	11		1	1fw							1sw,qty=5																													1fw,qty=1																																																										0
+12 Stacked Flawed Diamond -> 6 Stacked Diamond	1			0	18	70	12		1	1fw							1sw,qty=6																																																																																							0
+13 Stacked Flawed Diamond -> 6 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	13		1	1fw							1sw,qty=6																													1fw,qty=1																																																										0
+14 Stacked Flawed Diamond -> 7 Stacked Diamond	1			0	18	70	14		1	1fw							1sw,qty=7																																																																																							0
+15 Stacked Flawed Diamond -> 7 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	15		1	1fw							1sw,qty=7																													1fw,qty=1																																																										0
+16 Stacked Flawed Diamond -> 8 Stacked Diamond	1			0	18	70	16		1	1fw							1sw,qty=8																																																																																							0
+17 Stacked Flawed Diamond -> 8 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	17		1	1fw							1sw,qty=8																													1fw,qty=1																																																										0
+18 Stacked Flawed Diamond -> 9 Stacked Diamond	1			0	18	70	18		1	1fw							1sw,qty=9																																																																																							0
+19 Stacked Flawed Diamond -> 9 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	19		1	1fw							1sw,qty=9																													1fw,qty=1																																																										0
+20 Stacked Flawed Diamond -> 10 Stacked Diamond	1			0	18	70	20		1	1fw							1sw,qty=10																																																																																							0
+21 Stacked Flawed Diamond -> 10 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	21		1	1fw							1sw,qty=10																													1fw,qty=1																																																										0
+22 Stacked Flawed Diamond -> 11 Stacked Diamond	1			0	18	70	22		1	1fw							1sw,qty=11																																																																																							0
+23 Stacked Flawed Diamond -> 11 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	23		1	1fw							1sw,qty=11																													1fw,qty=1																																																										0
+24 Stacked Flawed Diamond -> 12 Stacked Diamond	1			0	18	70	24		1	1fw							1sw,qty=12																																																																																							0
+25 Stacked Flawed Diamond -> 12 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	25		1	1fw							1sw,qty=12																													1fw,qty=1																																																										0
+26 Stacked Flawed Diamond -> 13 Stacked Diamond	1			0	18	70	26		1	1fw							1sw,qty=13																																																																																							0
+27 Stacked Flawed Diamond -> 13 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	27		1	1fw							1sw,qty=13																													1fw,qty=1																																																										0
+28 Stacked Flawed Diamond -> 14 Stacked Diamond	1			0	18	70	28		1	1fw							1sw,qty=14																																																																																							0
+29 Stacked Flawed Diamond -> 14 Stacked Diamond + 1 Stacked Flawed Diamond	1			0	18	70	29		1	1fw							1sw,qty=14																													1fw,qty=1																																																										0
+30 Stacked Flawed Diamond -> 15 Stacked Diamond	1			0	18	70	30		1	1fw							1sw,qty=15																																																																																							0
+2 Stacked Diamond -> 1 Stacked Flawless Diamond	1			0	18	70	2		1	1sw							1lw,qty=1																																																																																							0
+3 Stacked Diamond -> 1 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	3		1	1sw							1lw,qty=1																													1sw,qty=1																																																										0
+4 Stacked Diamond -> 2 Stacked Flawless Diamond	1			0	18	70	4		1	1sw							1lw,qty=2																																																																																							0
+5 Stacked Diamond -> 2 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	5		1	1sw							1lw,qty=2																													1sw,qty=1																																																										0
+6 Stacked Diamond -> 3 Stacked Flawless Diamond	1			0	18	70	6		1	1sw							1lw,qty=3																																																																																							0
+7 Stacked Diamond -> 3 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	7		1	1sw							1lw,qty=3																													1sw,qty=1																																																										0
+8 Stacked Diamond -> 4 Stacked Flawless Diamond	1			0	18	70	8		1	1sw							1lw,qty=4																																																																																							0
+9 Stacked Diamond -> 4 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	9		1	1sw							1lw,qty=4																													1sw,qty=1																																																										0
+10 Stacked Diamond -> 5 Stacked Flawless Diamond	1			0	18	70	10		1	1sw							1lw,qty=5																																																																																							0
+11 Stacked Diamond -> 5 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	11		1	1sw							1lw,qty=5																													1sw,qty=1																																																										0
+12 Stacked Diamond -> 6 Stacked Flawless Diamond	1			0	18	70	12		1	1sw							1lw,qty=6																																																																																							0
+13 Stacked Diamond -> 6 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	13		1	1sw							1lw,qty=6																													1sw,qty=1																																																										0
+14 Stacked Diamond -> 7 Stacked Flawless Diamond	1			0	18	70	14		1	1sw							1lw,qty=7																																																																																							0
+15 Stacked Diamond -> 7 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	15		1	1sw							1lw,qty=7																													1sw,qty=1																																																										0
+16 Stacked Diamond -> 8 Stacked Flawless Diamond	1			0	18	70	16		1	1sw							1lw,qty=8																																																																																							0
+17 Stacked Diamond -> 8 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	17		1	1sw							1lw,qty=8																													1sw,qty=1																																																										0
+18 Stacked Diamond -> 9 Stacked Flawless Diamond	1			0	18	70	18		1	1sw							1lw,qty=9																																																																																							0
+19 Stacked Diamond -> 9 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	19		1	1sw							1lw,qty=9																													1sw,qty=1																																																										0
+20 Stacked Diamond -> 10 Stacked Flawless Diamond	1			0	18	70	20		1	1sw							1lw,qty=10																																																																																							0
+21 Stacked Diamond -> 10 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	21		1	1sw							1lw,qty=10																													1sw,qty=1																																																										0
+22 Stacked Diamond -> 11 Stacked Flawless Diamond	1			0	18	70	22		1	1sw							1lw,qty=11																																																																																							0
+23 Stacked Diamond -> 11 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	23		1	1sw							1lw,qty=11																													1sw,qty=1																																																										0
+24 Stacked Diamond -> 12 Stacked Flawless Diamond	1			0	18	70	24		1	1sw							1lw,qty=12																																																																																							0
+25 Stacked Diamond -> 12 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	25		1	1sw							1lw,qty=12																													1sw,qty=1																																																										0
+26 Stacked Diamond -> 13 Stacked Flawless Diamond	1			0	18	70	26		1	1sw							1lw,qty=13																																																																																							0
+27 Stacked Diamond -> 13 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	27		1	1sw							1lw,qty=13																													1sw,qty=1																																																										0
+28 Stacked Diamond -> 14 Stacked Flawless Diamond	1			0	18	70	28		1	1sw							1lw,qty=14																																																																																							0
+29 Stacked Diamond -> 14 Stacked Flawless Diamond + 1 Stacked Diamond	1			0	18	70	29		1	1sw							1lw,qty=14																													1sw,qty=1																																																										0
+30 Stacked Diamond -> 15 Stacked Flawless Diamond	1			0	18	70	30		1	1sw							1lw,qty=15																																																																																							0
+2 Stacked Flawless Diamond -> 1 Stacked Perfect Diamond	1			0	18	70	2		1	1lw							1pw,qty=1																																																																																							0
+3 Stacked Flawless Diamond -> 1 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	3		1	1lw							1pw,qty=1																													1lw,qty=1																																																										0
+4 Stacked Flawless Diamond -> 2 Stacked Perfect Diamond	1			0	18	70	4		1	1lw							1pw,qty=2																																																																																							0
+5 Stacked Flawless Diamond -> 2 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	5		1	1lw							1pw,qty=2																													1lw,qty=1																																																										0
+6 Stacked Flawless Diamond -> 3 Stacked Perfect Diamond	1			0	18	70	6		1	1lw							1pw,qty=3																																																																																							0
+7 Stacked Flawless Diamond -> 3 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	7		1	1lw							1pw,qty=3																													1lw,qty=1																																																										0
+8 Stacked Flawless Diamond -> 4 Stacked Perfect Diamond	1			0	18	70	8		1	1lw							1pw,qty=4																																																																																							0
+9 Stacked Flawless Diamond -> 4 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	9		1	1lw							1pw,qty=4																													1lw,qty=1																																																										0
+10 Stacked Flawless Diamond -> 5 Stacked Perfect Diamond	1			0	18	70	10		1	1lw							1pw,qty=5																																																																																							0
+11 Stacked Flawless Diamond -> 5 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	11		1	1lw							1pw,qty=5																													1lw,qty=1																																																										0
+12 Stacked Flawless Diamond -> 6 Stacked Perfect Diamond	1			0	18	70	12		1	1lw							1pw,qty=6																																																																																							0
+13 Stacked Flawless Diamond -> 6 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	13		1	1lw							1pw,qty=6																													1lw,qty=1																																																										0
+14 Stacked Flawless Diamond -> 7 Stacked Perfect Diamond	1			0	18	70	14		1	1lw							1pw,qty=7																																																																																							0
+15 Stacked Flawless Diamond -> 7 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	15		1	1lw							1pw,qty=7																													1lw,qty=1																																																										0
+16 Stacked Flawless Diamond -> 8 Stacked Perfect Diamond	1			0	18	70	16		1	1lw							1pw,qty=8																																																																																							0
+17 Stacked Flawless Diamond -> 8 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	17		1	1lw							1pw,qty=8																													1lw,qty=1																																																										0
+18 Stacked Flawless Diamond -> 9 Stacked Perfect Diamond	1			0	18	70	18		1	1lw							1pw,qty=9																																																																																							0
+19 Stacked Flawless Diamond -> 9 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	19		1	1lw							1pw,qty=9																													1lw,qty=1																																																										0
+20 Stacked Flawless Diamond -> 10 Stacked Perfect Diamond	1			0	18	70	20		1	1lw							1pw,qty=10																																																																																							0
+21 Stacked Flawless Diamond -> 10 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	21		1	1lw							1pw,qty=10																													1lw,qty=1																																																										0
+22 Stacked Flawless Diamond -> 11 Stacked Perfect Diamond	1			0	18	70	22		1	1lw							1pw,qty=11																																																																																							0
+23 Stacked Flawless Diamond -> 11 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	23		1	1lw							1pw,qty=11																													1lw,qty=1																																																										0
+24 Stacked Flawless Diamond -> 12 Stacked Perfect Diamond	1			0	18	70	24		1	1lw							1pw,qty=12																																																																																							0
+25 Stacked Flawless Diamond -> 12 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	25		1	1lw							1pw,qty=12																													1lw,qty=1																																																										0
+26 Stacked Flawless Diamond -> 13 Stacked Perfect Diamond	1			0	18	70	26		1	1lw							1pw,qty=13																																																																																							0
+27 Stacked Flawless Diamond -> 13 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	27		1	1lw							1pw,qty=13																													1lw,qty=1																																																										0
+28 Stacked Flawless Diamond -> 14 Stacked Perfect Diamond	1			0	18	70	28		1	1lw							1pw,qty=14																																																																																							0
+29 Stacked Flawless Diamond -> 14 Stacked Perfect Diamond + 1 Stacked Flawless Diamond	1			0	18	70	29		1	1lw							1pw,qty=14																													1lw,qty=1																																																										0
+30 Stacked Flawless Diamond -> 15 Stacked Perfect Diamond	1			0	18	70	30		1	1lw							1pw,qty=15																																																																																							0
+2 Stacked Chipped Emerald -> 1 Stacked Flawed Emerald	1			0	18	70	2		1	1cg							1fg,qty=1																																																																																							0
+3 Stacked Chipped Emerald -> 1 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	3		1	1cg							1fg,qty=1																													1cg,qty=1																																																										0
+4 Stacked Chipped Emerald -> 2 Stacked Flawed Emerald	1			0	18	70	4		1	1cg							1fg,qty=2																																																																																							0
+5 Stacked Chipped Emerald -> 2 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	5		1	1cg							1fg,qty=2																													1cg,qty=1																																																										0
+6 Stacked Chipped Emerald -> 3 Stacked Flawed Emerald	1			0	18	70	6		1	1cg							1fg,qty=3																																																																																							0
+7 Stacked Chipped Emerald -> 3 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	7		1	1cg							1fg,qty=3																													1cg,qty=1																																																										0
+8 Stacked Chipped Emerald -> 4 Stacked Flawed Emerald	1			0	18	70	8		1	1cg							1fg,qty=4																																																																																							0
+9 Stacked Chipped Emerald -> 4 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	9		1	1cg							1fg,qty=4																													1cg,qty=1																																																										0
+10 Stacked Chipped Emerald -> 5 Stacked Flawed Emerald	1			0	18	70	10		1	1cg							1fg,qty=5																																																																																							0
+11 Stacked Chipped Emerald -> 5 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	11		1	1cg							1fg,qty=5																													1cg,qty=1																																																										0
+12 Stacked Chipped Emerald -> 6 Stacked Flawed Emerald	1			0	18	70	12		1	1cg							1fg,qty=6																																																																																							0
+13 Stacked Chipped Emerald -> 6 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	13		1	1cg							1fg,qty=6																													1cg,qty=1																																																										0
+14 Stacked Chipped Emerald -> 7 Stacked Flawed Emerald	1			0	18	70	14		1	1cg							1fg,qty=7																																																																																							0
+15 Stacked Chipped Emerald -> 7 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	15		1	1cg							1fg,qty=7																													1cg,qty=1																																																										0
+16 Stacked Chipped Emerald -> 8 Stacked Flawed Emerald	1			0	18	70	16		1	1cg							1fg,qty=8																																																																																							0
+17 Stacked Chipped Emerald -> 8 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	17		1	1cg							1fg,qty=8																													1cg,qty=1																																																										0
+18 Stacked Chipped Emerald -> 9 Stacked Flawed Emerald	1			0	18	70	18		1	1cg							1fg,qty=9																																																																																							0
+19 Stacked Chipped Emerald -> 9 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	19		1	1cg							1fg,qty=9																													1cg,qty=1																																																										0
+20 Stacked Chipped Emerald -> 10 Stacked Flawed Emerald	1			0	18	70	20		1	1cg							1fg,qty=10																																																																																							0
+21 Stacked Chipped Emerald -> 10 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	21		1	1cg							1fg,qty=10																													1cg,qty=1																																																										0
+22 Stacked Chipped Emerald -> 11 Stacked Flawed Emerald	1			0	18	70	22		1	1cg							1fg,qty=11																																																																																							0
+23 Stacked Chipped Emerald -> 11 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	23		1	1cg							1fg,qty=11																													1cg,qty=1																																																										0
+24 Stacked Chipped Emerald -> 12 Stacked Flawed Emerald	1			0	18	70	24		1	1cg							1fg,qty=12																																																																																							0
+25 Stacked Chipped Emerald -> 12 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	25		1	1cg							1fg,qty=12																													1cg,qty=1																																																										0
+26 Stacked Chipped Emerald -> 13 Stacked Flawed Emerald	1			0	18	70	26		1	1cg							1fg,qty=13																																																																																							0
+27 Stacked Chipped Emerald -> 13 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	27		1	1cg							1fg,qty=13																													1cg,qty=1																																																										0
+28 Stacked Chipped Emerald -> 14 Stacked Flawed Emerald	1			0	18	70	28		1	1cg							1fg,qty=14																																																																																							0
+29 Stacked Chipped Emerald -> 14 Stacked Flawed Emerald + 1 Stacked Chipped Emerald	1			0	18	70	29		1	1cg							1fg,qty=14																													1cg,qty=1																																																										0
+30 Stacked Chipped Emerald -> 15 Stacked Flawed Emerald	1			0	18	70	30		1	1cg							1fg,qty=15																																																																																							0
+2 Stacked Flawed Emerald -> 1 Stacked Emerald	1			0	18	70	2		1	1fg							1sg,qty=1																																																																																							0
+3 Stacked Flawed Emerald -> 1 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	3		1	1fg							1sg,qty=1																													1fg,qty=1																																																										0
+4 Stacked Flawed Emerald -> 2 Stacked Emerald	1			0	18	70	4		1	1fg							1sg,qty=2																																																																																							0
+5 Stacked Flawed Emerald -> 2 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	5		1	1fg							1sg,qty=2																													1fg,qty=1																																																										0
+6 Stacked Flawed Emerald -> 3 Stacked Emerald	1			0	18	70	6		1	1fg							1sg,qty=3																																																																																							0
+7 Stacked Flawed Emerald -> 3 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	7		1	1fg							1sg,qty=3																													1fg,qty=1																																																										0
+8 Stacked Flawed Emerald -> 4 Stacked Emerald	1			0	18	70	8		1	1fg							1sg,qty=4																																																																																							0
+9 Stacked Flawed Emerald -> 4 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	9		1	1fg							1sg,qty=4																													1fg,qty=1																																																										0
+10 Stacked Flawed Emerald -> 5 Stacked Emerald	1			0	18	70	10		1	1fg							1sg,qty=5																																																																																							0
+11 Stacked Flawed Emerald -> 5 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	11		1	1fg							1sg,qty=5																													1fg,qty=1																																																										0
+12 Stacked Flawed Emerald -> 6 Stacked Emerald	1			0	18	70	12		1	1fg							1sg,qty=6																																																																																							0
+13 Stacked Flawed Emerald -> 6 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	13		1	1fg							1sg,qty=6																													1fg,qty=1																																																										0
+14 Stacked Flawed Emerald -> 7 Stacked Emerald	1			0	18	70	14		1	1fg							1sg,qty=7																																																																																							0
+15 Stacked Flawed Emerald -> 7 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	15		1	1fg							1sg,qty=7																													1fg,qty=1																																																										0
+16 Stacked Flawed Emerald -> 8 Stacked Emerald	1			0	18	70	16		1	1fg							1sg,qty=8																																																																																							0
+17 Stacked Flawed Emerald -> 8 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	17		1	1fg							1sg,qty=8																													1fg,qty=1																																																										0
+18 Stacked Flawed Emerald -> 9 Stacked Emerald	1			0	18	70	18		1	1fg							1sg,qty=9																																																																																							0
+19 Stacked Flawed Emerald -> 9 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	19		1	1fg							1sg,qty=9																													1fg,qty=1																																																										0
+20 Stacked Flawed Emerald -> 10 Stacked Emerald	1			0	18	70	20		1	1fg							1sg,qty=10																																																																																							0
+21 Stacked Flawed Emerald -> 10 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	21		1	1fg							1sg,qty=10																													1fg,qty=1																																																										0
+22 Stacked Flawed Emerald -> 11 Stacked Emerald	1			0	18	70	22		1	1fg							1sg,qty=11																																																																																							0
+23 Stacked Flawed Emerald -> 11 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	23		1	1fg							1sg,qty=11																													1fg,qty=1																																																										0
+24 Stacked Flawed Emerald -> 12 Stacked Emerald	1			0	18	70	24		1	1fg							1sg,qty=12																																																																																							0
+25 Stacked Flawed Emerald -> 12 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	25		1	1fg							1sg,qty=12																													1fg,qty=1																																																										0
+26 Stacked Flawed Emerald -> 13 Stacked Emerald	1			0	18	70	26		1	1fg							1sg,qty=13																																																																																							0
+27 Stacked Flawed Emerald -> 13 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	27		1	1fg							1sg,qty=13																													1fg,qty=1																																																										0
+28 Stacked Flawed Emerald -> 14 Stacked Emerald	1			0	18	70	28		1	1fg							1sg,qty=14																																																																																							0
+29 Stacked Flawed Emerald -> 14 Stacked Emerald + 1 Stacked Flawed Emerald	1			0	18	70	29		1	1fg							1sg,qty=14																													1fg,qty=1																																																										0
+30 Stacked Flawed Emerald -> 15 Stacked Emerald	1			0	18	70	30		1	1fg							1sg,qty=15																																																																																							0
+2 Stacked Emerald -> 1 Stacked Flawless Emerald	1			0	18	70	2		1	1sg							1lg,qty=1																																																																																							0
+3 Stacked Emerald -> 1 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	3		1	1sg							1lg,qty=1																													1sg,qty=1																																																										0
+4 Stacked Emerald -> 2 Stacked Flawless Emerald	1			0	18	70	4		1	1sg							1lg,qty=2																																																																																							0
+5 Stacked Emerald -> 2 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	5		1	1sg							1lg,qty=2																													1sg,qty=1																																																										0
+6 Stacked Emerald -> 3 Stacked Flawless Emerald	1			0	18	70	6		1	1sg							1lg,qty=3																																																																																							0
+7 Stacked Emerald -> 3 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	7		1	1sg							1lg,qty=3																													1sg,qty=1																																																										0
+8 Stacked Emerald -> 4 Stacked Flawless Emerald	1			0	18	70	8		1	1sg							1lg,qty=4																																																																																							0
+9 Stacked Emerald -> 4 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	9		1	1sg							1lg,qty=4																													1sg,qty=1																																																										0
+10 Stacked Emerald -> 5 Stacked Flawless Emerald	1			0	18	70	10		1	1sg							1lg,qty=5																																																																																							0
+11 Stacked Emerald -> 5 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	11		1	1sg							1lg,qty=5																													1sg,qty=1																																																										0
+12 Stacked Emerald -> 6 Stacked Flawless Emerald	1			0	18	70	12		1	1sg							1lg,qty=6																																																																																							0
+13 Stacked Emerald -> 6 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	13		1	1sg							1lg,qty=6																													1sg,qty=1																																																										0
+14 Stacked Emerald -> 7 Stacked Flawless Emerald	1			0	18	70	14		1	1sg							1lg,qty=7																																																																																							0
+15 Stacked Emerald -> 7 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	15		1	1sg							1lg,qty=7																													1sg,qty=1																																																										0
+16 Stacked Emerald -> 8 Stacked Flawless Emerald	1			0	18	70	16		1	1sg							1lg,qty=8																																																																																							0
+17 Stacked Emerald -> 8 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	17		1	1sg							1lg,qty=8																													1sg,qty=1																																																										0
+18 Stacked Emerald -> 9 Stacked Flawless Emerald	1			0	18	70	18		1	1sg							1lg,qty=9																																																																																							0
+19 Stacked Emerald -> 9 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	19		1	1sg							1lg,qty=9																													1sg,qty=1																																																										0
+20 Stacked Emerald -> 10 Stacked Flawless Emerald	1			0	18	70	20		1	1sg							1lg,qty=10																																																																																							0
+21 Stacked Emerald -> 10 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	21		1	1sg							1lg,qty=10																													1sg,qty=1																																																										0
+22 Stacked Emerald -> 11 Stacked Flawless Emerald	1			0	18	70	22		1	1sg							1lg,qty=11																																																																																							0
+23 Stacked Emerald -> 11 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	23		1	1sg							1lg,qty=11																													1sg,qty=1																																																										0
+24 Stacked Emerald -> 12 Stacked Flawless Emerald	1			0	18	70	24		1	1sg							1lg,qty=12																																																																																							0
+25 Stacked Emerald -> 12 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	25		1	1sg							1lg,qty=12																													1sg,qty=1																																																										0
+26 Stacked Emerald -> 13 Stacked Flawless Emerald	1			0	18	70	26		1	1sg							1lg,qty=13																																																																																							0
+27 Stacked Emerald -> 13 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	27		1	1sg							1lg,qty=13																													1sg,qty=1																																																										0
+28 Stacked Emerald -> 14 Stacked Flawless Emerald	1			0	18	70	28		1	1sg							1lg,qty=14																																																																																							0
+29 Stacked Emerald -> 14 Stacked Flawless Emerald + 1 Stacked Emerald	1			0	18	70	29		1	1sg							1lg,qty=14																													1sg,qty=1																																																										0
+30 Stacked Emerald -> 15 Stacked Flawless Emerald	1			0	18	70	30		1	1sg							1lg,qty=15																																																																																							0
+2 Stacked Flawless Emerald -> 1 Stacked Perfect Emerald	1			0	18	70	2		1	1lg							1pg,qty=1																																																																																							0
+3 Stacked Flawless Emerald -> 1 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	3		1	1lg							1pg,qty=1																													1lg,qty=1																																																										0
+4 Stacked Flawless Emerald -> 2 Stacked Perfect Emerald	1			0	18	70	4		1	1lg							1pg,qty=2																																																																																							0
+5 Stacked Flawless Emerald -> 2 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	5		1	1lg							1pg,qty=2																													1lg,qty=1																																																										0
+6 Stacked Flawless Emerald -> 3 Stacked Perfect Emerald	1			0	18	70	6		1	1lg							1pg,qty=3																																																																																							0
+7 Stacked Flawless Emerald -> 3 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	7		1	1lg							1pg,qty=3																													1lg,qty=1																																																										0
+8 Stacked Flawless Emerald -> 4 Stacked Perfect Emerald	1			0	18	70	8		1	1lg							1pg,qty=4																																																																																							0
+9 Stacked Flawless Emerald -> 4 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	9		1	1lg							1pg,qty=4																													1lg,qty=1																																																										0
+10 Stacked Flawless Emerald -> 5 Stacked Perfect Emerald	1			0	18	70	10		1	1lg							1pg,qty=5																																																																																							0
+11 Stacked Flawless Emerald -> 5 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	11		1	1lg							1pg,qty=5																													1lg,qty=1																																																										0
+12 Stacked Flawless Emerald -> 6 Stacked Perfect Emerald	1			0	18	70	12		1	1lg							1pg,qty=6																																																																																							0
+13 Stacked Flawless Emerald -> 6 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	13		1	1lg							1pg,qty=6																													1lg,qty=1																																																										0
+14 Stacked Flawless Emerald -> 7 Stacked Perfect Emerald	1			0	18	70	14		1	1lg							1pg,qty=7																																																																																							0
+15 Stacked Flawless Emerald -> 7 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	15		1	1lg							1pg,qty=7																													1lg,qty=1																																																										0
+16 Stacked Flawless Emerald -> 8 Stacked Perfect Emerald	1			0	18	70	16		1	1lg							1pg,qty=8																																																																																							0
+17 Stacked Flawless Emerald -> 8 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	17		1	1lg							1pg,qty=8																													1lg,qty=1																																																										0
+18 Stacked Flawless Emerald -> 9 Stacked Perfect Emerald	1			0	18	70	18		1	1lg							1pg,qty=9																																																																																							0
+19 Stacked Flawless Emerald -> 9 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	19		1	1lg							1pg,qty=9																													1lg,qty=1																																																										0
+20 Stacked Flawless Emerald -> 10 Stacked Perfect Emerald	1			0	18	70	20		1	1lg							1pg,qty=10																																																																																							0
+21 Stacked Flawless Emerald -> 10 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	21		1	1lg							1pg,qty=10																													1lg,qty=1																																																										0
+22 Stacked Flawless Emerald -> 11 Stacked Perfect Emerald	1			0	18	70	22		1	1lg							1pg,qty=11																																																																																							0
+23 Stacked Flawless Emerald -> 11 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	23		1	1lg							1pg,qty=11																													1lg,qty=1																																																										0
+24 Stacked Flawless Emerald -> 12 Stacked Perfect Emerald	1			0	18	70	24		1	1lg							1pg,qty=12																																																																																							0
+25 Stacked Flawless Emerald -> 12 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	25		1	1lg							1pg,qty=12																													1lg,qty=1																																																										0
+26 Stacked Flawless Emerald -> 13 Stacked Perfect Emerald	1			0	18	70	26		1	1lg							1pg,qty=13																																																																																							0
+27 Stacked Flawless Emerald -> 13 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	27		1	1lg							1pg,qty=13																													1lg,qty=1																																																										0
+28 Stacked Flawless Emerald -> 14 Stacked Perfect Emerald	1			0	18	70	28		1	1lg							1pg,qty=14																																																																																							0
+29 Stacked Flawless Emerald -> 14 Stacked Perfect Emerald + 1 Stacked Flawless Emerald	1			0	18	70	29		1	1lg							1pg,qty=14																													1lg,qty=1																																																										0
+30 Stacked Flawless Emerald -> 15 Stacked Perfect Emerald	1			0	18	70	30		1	1lg							1pg,qty=15																																																																																							0
+2 Stacked Chipped Ruby -> 1 Stacked Flawed Ruby	1			0	18	70	2		1	1cr							1fr,qty=1																																																																																							0
+3 Stacked Chipped Ruby -> 1 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	3		1	1cr							1fr,qty=1																													1cr,qty=1																																																										0
+4 Stacked Chipped Ruby -> 2 Stacked Flawed Ruby	1			0	18	70	4		1	1cr							1fr,qty=2																																																																																							0
+5 Stacked Chipped Ruby -> 2 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	5		1	1cr							1fr,qty=2																													1cr,qty=1																																																										0
+6 Stacked Chipped Ruby -> 3 Stacked Flawed Ruby	1			0	18	70	6		1	1cr							1fr,qty=3																																																																																							0
+7 Stacked Chipped Ruby -> 3 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	7		1	1cr							1fr,qty=3																													1cr,qty=1																																																										0
+8 Stacked Chipped Ruby -> 4 Stacked Flawed Ruby	1			0	18	70	8		1	1cr							1fr,qty=4																																																																																							0
+9 Stacked Chipped Ruby -> 4 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	9		1	1cr							1fr,qty=4																													1cr,qty=1																																																										0
+10 Stacked Chipped Ruby -> 5 Stacked Flawed Ruby	1			0	18	70	10		1	1cr							1fr,qty=5																																																																																							0
+11 Stacked Chipped Ruby -> 5 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	11		1	1cr							1fr,qty=5																													1cr,qty=1																																																										0
+12 Stacked Chipped Ruby -> 6 Stacked Flawed Ruby	1			0	18	70	12		1	1cr							1fr,qty=6																																																																																							0
+13 Stacked Chipped Ruby -> 6 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	13		1	1cr							1fr,qty=6																													1cr,qty=1																																																										0
+14 Stacked Chipped Ruby -> 7 Stacked Flawed Ruby	1			0	18	70	14		1	1cr							1fr,qty=7																																																																																							0
+15 Stacked Chipped Ruby -> 7 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	15		1	1cr							1fr,qty=7																													1cr,qty=1																																																										0
+16 Stacked Chipped Ruby -> 8 Stacked Flawed Ruby	1			0	18	70	16		1	1cr							1fr,qty=8																																																																																							0
+17 Stacked Chipped Ruby -> 8 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	17		1	1cr							1fr,qty=8																													1cr,qty=1																																																										0
+18 Stacked Chipped Ruby -> 9 Stacked Flawed Ruby	1			0	18	70	18		1	1cr							1fr,qty=9																																																																																							0
+19 Stacked Chipped Ruby -> 9 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	19		1	1cr							1fr,qty=9																													1cr,qty=1																																																										0
+20 Stacked Chipped Ruby -> 10 Stacked Flawed Ruby	1			0	18	70	20		1	1cr							1fr,qty=10																																																																																							0
+21 Stacked Chipped Ruby -> 10 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	21		1	1cr							1fr,qty=10																													1cr,qty=1																																																										0
+22 Stacked Chipped Ruby -> 11 Stacked Flawed Ruby	1			0	18	70	22		1	1cr							1fr,qty=11																																																																																							0
+23 Stacked Chipped Ruby -> 11 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	23		1	1cr							1fr,qty=11																													1cr,qty=1																																																										0
+24 Stacked Chipped Ruby -> 12 Stacked Flawed Ruby	1			0	18	70	24		1	1cr							1fr,qty=12																																																																																							0
+25 Stacked Chipped Ruby -> 12 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	25		1	1cr							1fr,qty=12																													1cr,qty=1																																																										0
+26 Stacked Chipped Ruby -> 13 Stacked Flawed Ruby	1			0	18	70	26		1	1cr							1fr,qty=13																																																																																							0
+27 Stacked Chipped Ruby -> 13 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	27		1	1cr							1fr,qty=13																													1cr,qty=1																																																										0
+28 Stacked Chipped Ruby -> 14 Stacked Flawed Ruby	1			0	18	70	28		1	1cr							1fr,qty=14																																																																																							0
+29 Stacked Chipped Ruby -> 14 Stacked Flawed Ruby + 1 Stacked Chipped Ruby	1			0	18	70	29		1	1cr							1fr,qty=14																													1cr,qty=1																																																										0
+30 Stacked Chipped Ruby -> 15 Stacked Flawed Ruby	1			0	18	70	30		1	1cr							1fr,qty=15																																																																																							0
+2 Stacked Flawed Ruby -> 1 Stacked Ruby	1			0	18	70	2		1	1fr							1sr,qty=1																																																																																							0
+3 Stacked Flawed Ruby -> 1 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	3		1	1fr							1sr,qty=1																													1fr,qty=1																																																										0
+4 Stacked Flawed Ruby -> 2 Stacked Ruby	1			0	18	70	4		1	1fr							1sr,qty=2																																																																																							0
+5 Stacked Flawed Ruby -> 2 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	5		1	1fr							1sr,qty=2																													1fr,qty=1																																																										0
+6 Stacked Flawed Ruby -> 3 Stacked Ruby	1			0	18	70	6		1	1fr							1sr,qty=3																																																																																							0
+7 Stacked Flawed Ruby -> 3 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	7		1	1fr							1sr,qty=3																													1fr,qty=1																																																										0
+8 Stacked Flawed Ruby -> 4 Stacked Ruby	1			0	18	70	8		1	1fr							1sr,qty=4																																																																																							0
+9 Stacked Flawed Ruby -> 4 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	9		1	1fr							1sr,qty=4																													1fr,qty=1																																																										0
+10 Stacked Flawed Ruby -> 5 Stacked Ruby	1			0	18	70	10		1	1fr							1sr,qty=5																																																																																							0
+11 Stacked Flawed Ruby -> 5 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	11		1	1fr							1sr,qty=5																													1fr,qty=1																																																										0
+12 Stacked Flawed Ruby -> 6 Stacked Ruby	1			0	18	70	12		1	1fr							1sr,qty=6																																																																																							0
+13 Stacked Flawed Ruby -> 6 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	13		1	1fr							1sr,qty=6																													1fr,qty=1																																																										0
+14 Stacked Flawed Ruby -> 7 Stacked Ruby	1			0	18	70	14		1	1fr							1sr,qty=7																																																																																							0
+15 Stacked Flawed Ruby -> 7 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	15		1	1fr							1sr,qty=7																													1fr,qty=1																																																										0
+16 Stacked Flawed Ruby -> 8 Stacked Ruby	1			0	18	70	16		1	1fr							1sr,qty=8																																																																																							0
+17 Stacked Flawed Ruby -> 8 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	17		1	1fr							1sr,qty=8																													1fr,qty=1																																																										0
+18 Stacked Flawed Ruby -> 9 Stacked Ruby	1			0	18	70	18		1	1fr							1sr,qty=9																																																																																							0
+19 Stacked Flawed Ruby -> 9 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	19		1	1fr							1sr,qty=9																													1fr,qty=1																																																										0
+20 Stacked Flawed Ruby -> 10 Stacked Ruby	1			0	18	70	20		1	1fr							1sr,qty=10																																																																																							0
+21 Stacked Flawed Ruby -> 10 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	21		1	1fr							1sr,qty=10																													1fr,qty=1																																																										0
+22 Stacked Flawed Ruby -> 11 Stacked Ruby	1			0	18	70	22		1	1fr							1sr,qty=11																																																																																							0
+23 Stacked Flawed Ruby -> 11 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	23		1	1fr							1sr,qty=11																													1fr,qty=1																																																										0
+24 Stacked Flawed Ruby -> 12 Stacked Ruby	1			0	18	70	24		1	1fr							1sr,qty=12																																																																																							0
+25 Stacked Flawed Ruby -> 12 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	25		1	1fr							1sr,qty=12																													1fr,qty=1																																																										0
+26 Stacked Flawed Ruby -> 13 Stacked Ruby	1			0	18	70	26		1	1fr							1sr,qty=13																																																																																							0
+27 Stacked Flawed Ruby -> 13 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	27		1	1fr							1sr,qty=13																													1fr,qty=1																																																										0
+28 Stacked Flawed Ruby -> 14 Stacked Ruby	1			0	18	70	28		1	1fr							1sr,qty=14																																																																																							0
+29 Stacked Flawed Ruby -> 14 Stacked Ruby + 1 Stacked Flawed Ruby	1			0	18	70	29		1	1fr							1sr,qty=14																													1fr,qty=1																																																										0
+30 Stacked Flawed Ruby -> 15 Stacked Ruby	1			0	18	70	30		1	1fr							1sr,qty=15																																																																																							0
+2 Stacked Ruby -> 1 Stacked Flawless Ruby	1			0	18	70	2		1	1sr							1lr,qty=1																																																																																							0
+3 Stacked Ruby -> 1 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	3		1	1sr							1lr,qty=1																													1sr,qty=1																																																										0
+4 Stacked Ruby -> 2 Stacked Flawless Ruby	1			0	18	70	4		1	1sr							1lr,qty=2																																																																																							0
+5 Stacked Ruby -> 2 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	5		1	1sr							1lr,qty=2																													1sr,qty=1																																																										0
+6 Stacked Ruby -> 3 Stacked Flawless Ruby	1			0	18	70	6		1	1sr							1lr,qty=3																																																																																							0
+7 Stacked Ruby -> 3 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	7		1	1sr							1lr,qty=3																													1sr,qty=1																																																										0
+8 Stacked Ruby -> 4 Stacked Flawless Ruby	1			0	18	70	8		1	1sr							1lr,qty=4																																																																																							0
+9 Stacked Ruby -> 4 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	9		1	1sr							1lr,qty=4																													1sr,qty=1																																																										0
+10 Stacked Ruby -> 5 Stacked Flawless Ruby	1			0	18	70	10		1	1sr							1lr,qty=5																																																																																							0
+11 Stacked Ruby -> 5 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	11		1	1sr							1lr,qty=5																													1sr,qty=1																																																										0
+12 Stacked Ruby -> 6 Stacked Flawless Ruby	1			0	18	70	12		1	1sr							1lr,qty=6																																																																																							0
+13 Stacked Ruby -> 6 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	13		1	1sr							1lr,qty=6																													1sr,qty=1																																																										0
+14 Stacked Ruby -> 7 Stacked Flawless Ruby	1			0	18	70	14		1	1sr							1lr,qty=7																																																																																							0
+15 Stacked Ruby -> 7 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	15		1	1sr							1lr,qty=7																													1sr,qty=1																																																										0
+16 Stacked Ruby -> 8 Stacked Flawless Ruby	1			0	18	70	16		1	1sr							1lr,qty=8																																																																																							0
+17 Stacked Ruby -> 8 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	17		1	1sr							1lr,qty=8																													1sr,qty=1																																																										0
+18 Stacked Ruby -> 9 Stacked Flawless Ruby	1			0	18	70	18		1	1sr							1lr,qty=9																																																																																							0
+19 Stacked Ruby -> 9 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	19		1	1sr							1lr,qty=9																													1sr,qty=1																																																										0
+20 Stacked Ruby -> 10 Stacked Flawless Ruby	1			0	18	70	20		1	1sr							1lr,qty=10																																																																																							0
+21 Stacked Ruby -> 10 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	21		1	1sr							1lr,qty=10																													1sr,qty=1																																																										0
+22 Stacked Ruby -> 11 Stacked Flawless Ruby	1			0	18	70	22		1	1sr							1lr,qty=11																																																																																							0
+23 Stacked Ruby -> 11 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	23		1	1sr							1lr,qty=11																													1sr,qty=1																																																										0
+24 Stacked Ruby -> 12 Stacked Flawless Ruby	1			0	18	70	24		1	1sr							1lr,qty=12																																																																																							0
+25 Stacked Ruby -> 12 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	25		1	1sr							1lr,qty=12																													1sr,qty=1																																																										0
+26 Stacked Ruby -> 13 Stacked Flawless Ruby	1			0	18	70	26		1	1sr							1lr,qty=13																																																																																							0
+27 Stacked Ruby -> 13 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	27		1	1sr							1lr,qty=13																													1sr,qty=1																																																										0
+28 Stacked Ruby -> 14 Stacked Flawless Ruby	1			0	18	70	28		1	1sr							1lr,qty=14																																																																																							0
+29 Stacked Ruby -> 14 Stacked Flawless Ruby + 1 Stacked Ruby	1			0	18	70	29		1	1sr							1lr,qty=14																													1sr,qty=1																																																										0
+30 Stacked Ruby -> 15 Stacked Flawless Ruby	1			0	18	70	30		1	1sr							1lr,qty=15																																																																																							0
+2 Stacked Flawless Ruby -> 1 Stacked Perfect Ruby	1			0	18	70	2		1	1lr							1pr,qty=1																																																																																							0
+3 Stacked Flawless Ruby -> 1 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	3		1	1lr							1pr,qty=1																													1lr,qty=1																																																										0
+4 Stacked Flawless Ruby -> 2 Stacked Perfect Ruby	1			0	18	70	4		1	1lr							1pr,qty=2																																																																																							0
+5 Stacked Flawless Ruby -> 2 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	5		1	1lr							1pr,qty=2																													1lr,qty=1																																																										0
+6 Stacked Flawless Ruby -> 3 Stacked Perfect Ruby	1			0	18	70	6		1	1lr							1pr,qty=3																																																																																							0
+7 Stacked Flawless Ruby -> 3 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	7		1	1lr							1pr,qty=3																													1lr,qty=1																																																										0
+8 Stacked Flawless Ruby -> 4 Stacked Perfect Ruby	1			0	18	70	8		1	1lr							1pr,qty=4																																																																																							0
+9 Stacked Flawless Ruby -> 4 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	9		1	1lr							1pr,qty=4																													1lr,qty=1																																																										0
+10 Stacked Flawless Ruby -> 5 Stacked Perfect Ruby	1			0	18	70	10		1	1lr							1pr,qty=5																																																																																							0
+11 Stacked Flawless Ruby -> 5 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	11		1	1lr							1pr,qty=5																													1lr,qty=1																																																										0
+12 Stacked Flawless Ruby -> 6 Stacked Perfect Ruby	1			0	18	70	12		1	1lr							1pr,qty=6																																																																																							0
+13 Stacked Flawless Ruby -> 6 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	13		1	1lr							1pr,qty=6																													1lr,qty=1																																																										0
+14 Stacked Flawless Ruby -> 7 Stacked Perfect Ruby	1			0	18	70	14		1	1lr							1pr,qty=7																																																																																							0
+15 Stacked Flawless Ruby -> 7 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	15		1	1lr							1pr,qty=7																													1lr,qty=1																																																										0
+16 Stacked Flawless Ruby -> 8 Stacked Perfect Ruby	1			0	18	70	16		1	1lr							1pr,qty=8																																																																																							0
+17 Stacked Flawless Ruby -> 8 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	17		1	1lr							1pr,qty=8																													1lr,qty=1																																																										0
+18 Stacked Flawless Ruby -> 9 Stacked Perfect Ruby	1			0	18	70	18		1	1lr							1pr,qty=9																																																																																							0
+19 Stacked Flawless Ruby -> 9 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	19		1	1lr							1pr,qty=9																													1lr,qty=1																																																										0
+20 Stacked Flawless Ruby -> 10 Stacked Perfect Ruby	1			0	18	70	20		1	1lr							1pr,qty=10																																																																																							0
+21 Stacked Flawless Ruby -> 10 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	21		1	1lr							1pr,qty=10																													1lr,qty=1																																																										0
+22 Stacked Flawless Ruby -> 11 Stacked Perfect Ruby	1			0	18	70	22		1	1lr							1pr,qty=11																																																																																							0
+23 Stacked Flawless Ruby -> 11 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	23		1	1lr							1pr,qty=11																													1lr,qty=1																																																										0
+24 Stacked Flawless Ruby -> 12 Stacked Perfect Ruby	1			0	18	70	24		1	1lr							1pr,qty=12																																																																																							0
+25 Stacked Flawless Ruby -> 12 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	25		1	1lr							1pr,qty=12																													1lr,qty=1																																																										0
+26 Stacked Flawless Ruby -> 13 Stacked Perfect Ruby	1			0	18	70	26		1	1lr							1pr,qty=13																																																																																							0
+27 Stacked Flawless Ruby -> 13 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	27		1	1lr							1pr,qty=13																													1lr,qty=1																																																										0
+28 Stacked Flawless Ruby -> 14 Stacked Perfect Ruby	1			0	18	70	28		1	1lr							1pr,qty=14																																																																																							0
+29 Stacked Flawless Ruby -> 14 Stacked Perfect Ruby + 1 Stacked Flawless Ruby	1			0	18	70	29		1	1lr							1pr,qty=14																													1lr,qty=1																																																										0
+30 Stacked Flawless Ruby -> 15 Stacked Perfect Ruby	1			0	18	70	30		1	1lr							1pr,qty=15																																																																																							0
+2 Stacked Chipped Sapphire -> 1 Stacked Flawed Sapphire	1			0	18	70	2		1	1cb							1fb,qty=1																																																																																							0
+3 Stacked Chipped Sapphire -> 1 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	3		1	1cb							1fb,qty=1																													1cb,qty=1																																																										0
+4 Stacked Chipped Sapphire -> 2 Stacked Flawed Sapphire	1			0	18	70	4		1	1cb							1fb,qty=2																																																																																							0
+5 Stacked Chipped Sapphire -> 2 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	5		1	1cb							1fb,qty=2																													1cb,qty=1																																																										0
+6 Stacked Chipped Sapphire -> 3 Stacked Flawed Sapphire	1			0	18	70	6		1	1cb							1fb,qty=3																																																																																							0
+7 Stacked Chipped Sapphire -> 3 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	7		1	1cb							1fb,qty=3																													1cb,qty=1																																																										0
+8 Stacked Chipped Sapphire -> 4 Stacked Flawed Sapphire	1			0	18	70	8		1	1cb							1fb,qty=4																																																																																							0
+9 Stacked Chipped Sapphire -> 4 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	9		1	1cb							1fb,qty=4																													1cb,qty=1																																																										0
+10 Stacked Chipped Sapphire -> 5 Stacked Flawed Sapphire	1			0	18	70	10		1	1cb							1fb,qty=5																																																																																							0
+11 Stacked Chipped Sapphire -> 5 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	11		1	1cb							1fb,qty=5																													1cb,qty=1																																																										0
+12 Stacked Chipped Sapphire -> 6 Stacked Flawed Sapphire	1			0	18	70	12		1	1cb							1fb,qty=6																																																																																							0
+13 Stacked Chipped Sapphire -> 6 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	13		1	1cb							1fb,qty=6																													1cb,qty=1																																																										0
+14 Stacked Chipped Sapphire -> 7 Stacked Flawed Sapphire	1			0	18	70	14		1	1cb							1fb,qty=7																																																																																							0
+15 Stacked Chipped Sapphire -> 7 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	15		1	1cb							1fb,qty=7																													1cb,qty=1																																																										0
+16 Stacked Chipped Sapphire -> 8 Stacked Flawed Sapphire	1			0	18	70	16		1	1cb							1fb,qty=8																																																																																							0
+17 Stacked Chipped Sapphire -> 8 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	17		1	1cb							1fb,qty=8																													1cb,qty=1																																																										0
+18 Stacked Chipped Sapphire -> 9 Stacked Flawed Sapphire	1			0	18	70	18		1	1cb							1fb,qty=9																																																																																							0
+19 Stacked Chipped Sapphire -> 9 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	19		1	1cb							1fb,qty=9																													1cb,qty=1																																																										0
+20 Stacked Chipped Sapphire -> 10 Stacked Flawed Sapphire	1			0	18	70	20		1	1cb							1fb,qty=10																																																																																							0
+21 Stacked Chipped Sapphire -> 10 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	21		1	1cb							1fb,qty=10																													1cb,qty=1																																																										0
+22 Stacked Chipped Sapphire -> 11 Stacked Flawed Sapphire	1			0	18	70	22		1	1cb							1fb,qty=11																																																																																							0
+23 Stacked Chipped Sapphire -> 11 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	23		1	1cb							1fb,qty=11																													1cb,qty=1																																																										0
+24 Stacked Chipped Sapphire -> 12 Stacked Flawed Sapphire	1			0	18	70	24		1	1cb							1fb,qty=12																																																																																							0
+25 Stacked Chipped Sapphire -> 12 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	25		1	1cb							1fb,qty=12																													1cb,qty=1																																																										0
+26 Stacked Chipped Sapphire -> 13 Stacked Flawed Sapphire	1			0	18	70	26		1	1cb							1fb,qty=13																																																																																							0
+27 Stacked Chipped Sapphire -> 13 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	27		1	1cb							1fb,qty=13																													1cb,qty=1																																																										0
+28 Stacked Chipped Sapphire -> 14 Stacked Flawed Sapphire	1			0	18	70	28		1	1cb							1fb,qty=14																																																																																							0
+29 Stacked Chipped Sapphire -> 14 Stacked Flawed Sapphire + 1 Stacked Chipped Sapphire	1			0	18	70	29		1	1cb							1fb,qty=14																													1cb,qty=1																																																										0
+30 Stacked Chipped Sapphire -> 15 Stacked Flawed Sapphire	1			0	18	70	30		1	1cb							1fb,qty=15																																																																																							0
+2 Stacked Flawed Sapphire -> 1 Stacked Sapphire	1			0	18	70	2		1	1fb							1sb,qty=1																																																																																							0
+3 Stacked Flawed Sapphire -> 1 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	3		1	1fb							1sb,qty=1																													1fb,qty=1																																																										0
+4 Stacked Flawed Sapphire -> 2 Stacked Sapphire	1			0	18	70	4		1	1fb							1sb,qty=2																																																																																							0
+5 Stacked Flawed Sapphire -> 2 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	5		1	1fb							1sb,qty=2																													1fb,qty=1																																																										0
+6 Stacked Flawed Sapphire -> 3 Stacked Sapphire	1			0	18	70	6		1	1fb							1sb,qty=3																																																																																							0
+7 Stacked Flawed Sapphire -> 3 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	7		1	1fb							1sb,qty=3																													1fb,qty=1																																																										0
+8 Stacked Flawed Sapphire -> 4 Stacked Sapphire	1			0	18	70	8		1	1fb							1sb,qty=4																																																																																							0
+9 Stacked Flawed Sapphire -> 4 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	9		1	1fb							1sb,qty=4																													1fb,qty=1																																																										0
+10 Stacked Flawed Sapphire -> 5 Stacked Sapphire	1			0	18	70	10		1	1fb							1sb,qty=5																																																																																							0
+11 Stacked Flawed Sapphire -> 5 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	11		1	1fb							1sb,qty=5																													1fb,qty=1																																																										0
+12 Stacked Flawed Sapphire -> 6 Stacked Sapphire	1			0	18	70	12		1	1fb							1sb,qty=6																																																																																							0
+13 Stacked Flawed Sapphire -> 6 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	13		1	1fb							1sb,qty=6																													1fb,qty=1																																																										0
+14 Stacked Flawed Sapphire -> 7 Stacked Sapphire	1			0	18	70	14		1	1fb							1sb,qty=7																																																																																							0
+15 Stacked Flawed Sapphire -> 7 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	15		1	1fb							1sb,qty=7																													1fb,qty=1																																																										0
+16 Stacked Flawed Sapphire -> 8 Stacked Sapphire	1			0	18	70	16		1	1fb							1sb,qty=8																																																																																							0
+17 Stacked Flawed Sapphire -> 8 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	17		1	1fb							1sb,qty=8																													1fb,qty=1																																																										0
+18 Stacked Flawed Sapphire -> 9 Stacked Sapphire	1			0	18	70	18		1	1fb							1sb,qty=9																																																																																							0
+19 Stacked Flawed Sapphire -> 9 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	19		1	1fb							1sb,qty=9																													1fb,qty=1																																																										0
+20 Stacked Flawed Sapphire -> 10 Stacked Sapphire	1			0	18	70	20		1	1fb							1sb,qty=10																																																																																							0
+21 Stacked Flawed Sapphire -> 10 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	21		1	1fb							1sb,qty=10																													1fb,qty=1																																																										0
+22 Stacked Flawed Sapphire -> 11 Stacked Sapphire	1			0	18	70	22		1	1fb							1sb,qty=11																																																																																							0
+23 Stacked Flawed Sapphire -> 11 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	23		1	1fb							1sb,qty=11																													1fb,qty=1																																																										0
+24 Stacked Flawed Sapphire -> 12 Stacked Sapphire	1			0	18	70	24		1	1fb							1sb,qty=12																																																																																							0
+25 Stacked Flawed Sapphire -> 12 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	25		1	1fb							1sb,qty=12																													1fb,qty=1																																																										0
+26 Stacked Flawed Sapphire -> 13 Stacked Sapphire	1			0	18	70	26		1	1fb							1sb,qty=13																																																																																							0
+27 Stacked Flawed Sapphire -> 13 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	27		1	1fb							1sb,qty=13																													1fb,qty=1																																																										0
+28 Stacked Flawed Sapphire -> 14 Stacked Sapphire	1			0	18	70	28		1	1fb							1sb,qty=14																																																																																							0
+29 Stacked Flawed Sapphire -> 14 Stacked Sapphire + 1 Stacked Flawed Sapphire	1			0	18	70	29		1	1fb							1sb,qty=14																													1fb,qty=1																																																										0
+30 Stacked Flawed Sapphire -> 15 Stacked Sapphire	1			0	18	70	30		1	1fb							1sb,qty=15																																																																																							0
+2 Stacked Sapphire -> 1 Stacked Flawless Sapphire	1			0	18	70	2		1	1sb							1lb,qty=1																																																																																							0
+3 Stacked Sapphire -> 1 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	3		1	1sb							1lb,qty=1																													1sb,qty=1																																																										0
+4 Stacked Sapphire -> 2 Stacked Flawless Sapphire	1			0	18	70	4		1	1sb							1lb,qty=2																																																																																							0
+5 Stacked Sapphire -> 2 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	5		1	1sb							1lb,qty=2																													1sb,qty=1																																																										0
+6 Stacked Sapphire -> 3 Stacked Flawless Sapphire	1			0	18	70	6		1	1sb							1lb,qty=3																																																																																							0
+7 Stacked Sapphire -> 3 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	7		1	1sb							1lb,qty=3																													1sb,qty=1																																																										0
+8 Stacked Sapphire -> 4 Stacked Flawless Sapphire	1			0	18	70	8		1	1sb							1lb,qty=4																																																																																							0
+9 Stacked Sapphire -> 4 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	9		1	1sb							1lb,qty=4																													1sb,qty=1																																																										0
+10 Stacked Sapphire -> 5 Stacked Flawless Sapphire	1			0	18	70	10		1	1sb							1lb,qty=5																																																																																							0
+11 Stacked Sapphire -> 5 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	11		1	1sb							1lb,qty=5																													1sb,qty=1																																																										0
+12 Stacked Sapphire -> 6 Stacked Flawless Sapphire	1			0	18	70	12		1	1sb							1lb,qty=6																																																																																							0
+13 Stacked Sapphire -> 6 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	13		1	1sb							1lb,qty=6																													1sb,qty=1																																																										0
+14 Stacked Sapphire -> 7 Stacked Flawless Sapphire	1			0	18	70	14		1	1sb							1lb,qty=7																																																																																							0
+15 Stacked Sapphire -> 7 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	15		1	1sb							1lb,qty=7																													1sb,qty=1																																																										0
+16 Stacked Sapphire -> 8 Stacked Flawless Sapphire	1			0	18	70	16		1	1sb							1lb,qty=8																																																																																							0
+17 Stacked Sapphire -> 8 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	17		1	1sb							1lb,qty=8																													1sb,qty=1																																																										0
+18 Stacked Sapphire -> 9 Stacked Flawless Sapphire	1			0	18	70	18		1	1sb							1lb,qty=9																																																																																							0
+19 Stacked Sapphire -> 9 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	19		1	1sb							1lb,qty=9																													1sb,qty=1																																																										0
+20 Stacked Sapphire -> 10 Stacked Flawless Sapphire	1			0	18	70	20		1	1sb							1lb,qty=10																																																																																							0
+21 Stacked Sapphire -> 10 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	21		1	1sb							1lb,qty=10																													1sb,qty=1																																																										0
+22 Stacked Sapphire -> 11 Stacked Flawless Sapphire	1			0	18	70	22		1	1sb							1lb,qty=11																																																																																							0
+23 Stacked Sapphire -> 11 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	23		1	1sb							1lb,qty=11																													1sb,qty=1																																																										0
+24 Stacked Sapphire -> 12 Stacked Flawless Sapphire	1			0	18	70	24		1	1sb							1lb,qty=12																																																																																							0
+25 Stacked Sapphire -> 12 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	25		1	1sb							1lb,qty=12																													1sb,qty=1																																																										0
+26 Stacked Sapphire -> 13 Stacked Flawless Sapphire	1			0	18	70	26		1	1sb							1lb,qty=13																																																																																							0
+27 Stacked Sapphire -> 13 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	27		1	1sb							1lb,qty=13																													1sb,qty=1																																																										0
+28 Stacked Sapphire -> 14 Stacked Flawless Sapphire	1			0	18	70	28		1	1sb							1lb,qty=14																																																																																							0
+29 Stacked Sapphire -> 14 Stacked Flawless Sapphire + 1 Stacked Sapphire	1			0	18	70	29		1	1sb							1lb,qty=14																													1sb,qty=1																																																										0
+30 Stacked Sapphire -> 15 Stacked Flawless Sapphire	1			0	18	70	30		1	1sb							1lb,qty=15																																																																																							0
+2 Stacked Flawless Sapphire -> 1 Stacked Perfect Sapphire	1			0	18	70	2		1	1lb							1pb,qty=1																																																																																							0
+3 Stacked Flawless Sapphire -> 1 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	3		1	1lb							1pb,qty=1																													1lb,qty=1																																																										0
+4 Stacked Flawless Sapphire -> 2 Stacked Perfect Sapphire	1			0	18	70	4		1	1lb							1pb,qty=2																																																																																							0
+5 Stacked Flawless Sapphire -> 2 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	5		1	1lb							1pb,qty=2																													1lb,qty=1																																																										0
+6 Stacked Flawless Sapphire -> 3 Stacked Perfect Sapphire	1			0	18	70	6		1	1lb							1pb,qty=3																																																																																							0
+7 Stacked Flawless Sapphire -> 3 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	7		1	1lb							1pb,qty=3																													1lb,qty=1																																																										0
+8 Stacked Flawless Sapphire -> 4 Stacked Perfect Sapphire	1			0	18	70	8		1	1lb							1pb,qty=4																																																																																							0
+9 Stacked Flawless Sapphire -> 4 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	9		1	1lb							1pb,qty=4																													1lb,qty=1																																																										0
+10 Stacked Flawless Sapphire -> 5 Stacked Perfect Sapphire	1			0	18	70	10		1	1lb							1pb,qty=5																																																																																							0
+11 Stacked Flawless Sapphire -> 5 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	11		1	1lb							1pb,qty=5																													1lb,qty=1																																																										0
+12 Stacked Flawless Sapphire -> 6 Stacked Perfect Sapphire	1			0	18	70	12		1	1lb							1pb,qty=6																																																																																							0
+13 Stacked Flawless Sapphire -> 6 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	13		1	1lb							1pb,qty=6																													1lb,qty=1																																																										0
+14 Stacked Flawless Sapphire -> 7 Stacked Perfect Sapphire	1			0	18	70	14		1	1lb							1pb,qty=7																																																																																							0
+15 Stacked Flawless Sapphire -> 7 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	15		1	1lb							1pb,qty=7																													1lb,qty=1																																																										0
+16 Stacked Flawless Sapphire -> 8 Stacked Perfect Sapphire	1			0	18	70	16		1	1lb							1pb,qty=8																																																																																							0
+17 Stacked Flawless Sapphire -> 8 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	17		1	1lb							1pb,qty=8																													1lb,qty=1																																																										0
+18 Stacked Flawless Sapphire -> 9 Stacked Perfect Sapphire	1			0	18	70	18		1	1lb							1pb,qty=9																																																																																							0
+19 Stacked Flawless Sapphire -> 9 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	19		1	1lb							1pb,qty=9																													1lb,qty=1																																																										0
+20 Stacked Flawless Sapphire -> 10 Stacked Perfect Sapphire	1			0	18	70	20		1	1lb							1pb,qty=10																																																																																							0
+21 Stacked Flawless Sapphire -> 10 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	21		1	1lb							1pb,qty=10																													1lb,qty=1																																																										0
+22 Stacked Flawless Sapphire -> 11 Stacked Perfect Sapphire	1			0	18	70	22		1	1lb							1pb,qty=11																																																																																							0
+23 Stacked Flawless Sapphire -> 11 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	23		1	1lb							1pb,qty=11																													1lb,qty=1																																																										0
+24 Stacked Flawless Sapphire -> 12 Stacked Perfect Sapphire	1			0	18	70	24		1	1lb							1pb,qty=12																																																																																							0
+25 Stacked Flawless Sapphire -> 12 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	25		1	1lb							1pb,qty=12																													1lb,qty=1																																																										0
+26 Stacked Flawless Sapphire -> 13 Stacked Perfect Sapphire	1			0	18	70	26		1	1lb							1pb,qty=13																																																																																							0
+27 Stacked Flawless Sapphire -> 13 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	27		1	1lb							1pb,qty=13																													1lb,qty=1																																																										0
+28 Stacked Flawless Sapphire -> 14 Stacked Perfect Sapphire	1			0	18	70	28		1	1lb							1pb,qty=14																																																																																							0
+29 Stacked Flawless Sapphire -> 14 Stacked Perfect Sapphire + 1 Stacked Flawless Sapphire	1			0	18	70	29		1	1lb							1pb,qty=14																													1lb,qty=1																																																										0
+30 Stacked Flawless Sapphire -> 15 Stacked Perfect Sapphire	1			0	18	70	30		1	1lb							1pb,qty=15																																																																																							0
+2 Stacked Chipped Skull -> 1 Stacked Flawed Skull	1			0	18	70	2		1	1kc							1kf,qty=1																																																																																							0
+3 Stacked Chipped Skull -> 1 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	3		1	1kc							1kf,qty=1																													1kc,qty=1																																																										0
+4 Stacked Chipped Skull -> 2 Stacked Flawed Skull	1			0	18	70	4		1	1kc							1kf,qty=2																																																																																							0
+5 Stacked Chipped Skull -> 2 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	5		1	1kc							1kf,qty=2																													1kc,qty=1																																																										0
+6 Stacked Chipped Skull -> 3 Stacked Flawed Skull	1			0	18	70	6		1	1kc							1kf,qty=3																																																																																							0
+7 Stacked Chipped Skull -> 3 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	7		1	1kc							1kf,qty=3																													1kc,qty=1																																																										0
+8 Stacked Chipped Skull -> 4 Stacked Flawed Skull	1			0	18	70	8		1	1kc							1kf,qty=4																																																																																							0
+9 Stacked Chipped Skull -> 4 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	9		1	1kc							1kf,qty=4																													1kc,qty=1																																																										0
+10 Stacked Chipped Skull -> 5 Stacked Flawed Skull	1			0	18	70	10		1	1kc							1kf,qty=5																																																																																							0
+11 Stacked Chipped Skull -> 5 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	11		1	1kc							1kf,qty=5																													1kc,qty=1																																																										0
+12 Stacked Chipped Skull -> 6 Stacked Flawed Skull	1			0	18	70	12		1	1kc							1kf,qty=6																																																																																							0
+13 Stacked Chipped Skull -> 6 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	13		1	1kc							1kf,qty=6																													1kc,qty=1																																																										0
+14 Stacked Chipped Skull -> 7 Stacked Flawed Skull	1			0	18	70	14		1	1kc							1kf,qty=7																																																																																							0
+15 Stacked Chipped Skull -> 7 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	15		1	1kc							1kf,qty=7																													1kc,qty=1																																																										0
+16 Stacked Chipped Skull -> 8 Stacked Flawed Skull	1			0	18	70	16		1	1kc							1kf,qty=8																																																																																							0
+17 Stacked Chipped Skull -> 8 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	17		1	1kc							1kf,qty=8																													1kc,qty=1																																																										0
+18 Stacked Chipped Skull -> 9 Stacked Flawed Skull	1			0	18	70	18		1	1kc							1kf,qty=9																																																																																							0
+19 Stacked Chipped Skull -> 9 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	19		1	1kc							1kf,qty=9																													1kc,qty=1																																																										0
+20 Stacked Chipped Skull -> 10 Stacked Flawed Skull	1			0	18	70	20		1	1kc							1kf,qty=10																																																																																							0
+21 Stacked Chipped Skull -> 10 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	21		1	1kc							1kf,qty=10																													1kc,qty=1																																																										0
+22 Stacked Chipped Skull -> 11 Stacked Flawed Skull	1			0	18	70	22		1	1kc							1kf,qty=11																																																																																							0
+23 Stacked Chipped Skull -> 11 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	23		1	1kc							1kf,qty=11																													1kc,qty=1																																																										0
+24 Stacked Chipped Skull -> 12 Stacked Flawed Skull	1			0	18	70	24		1	1kc							1kf,qty=12																																																																																							0
+25 Stacked Chipped Skull -> 12 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	25		1	1kc							1kf,qty=12																													1kc,qty=1																																																										0
+26 Stacked Chipped Skull -> 13 Stacked Flawed Skull	1			0	18	70	26		1	1kc							1kf,qty=13																																																																																							0
+27 Stacked Chipped Skull -> 13 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	27		1	1kc							1kf,qty=13																													1kc,qty=1																																																										0
+28 Stacked Chipped Skull -> 14 Stacked Flawed Skull	1			0	18	70	28		1	1kc							1kf,qty=14																																																																																							0
+29 Stacked Chipped Skull -> 14 Stacked Flawed Skull + 1 Stacked Chipped Skull	1			0	18	70	29		1	1kc							1kf,qty=14																													1kc,qty=1																																																										0
+30 Stacked Chipped Skull -> 15 Stacked Flawed Skull	1			0	18	70	30		1	1kc							1kf,qty=15																																																																																							0
+2 Stacked Flawed Skull -> 1 Stacked Skull	1			0	18	70	2		1	1kf							1ku,qty=1																																																																																							0
+3 Stacked Flawed Skull -> 1 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	3		1	1kf							1ku,qty=1																													1kf,qty=1																																																										0
+4 Stacked Flawed Skull -> 2 Stacked Skull	1			0	18	70	4		1	1kf							1ku,qty=2																																																																																							0
+5 Stacked Flawed Skull -> 2 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	5		1	1kf							1ku,qty=2																													1kf,qty=1																																																										0
+6 Stacked Flawed Skull -> 3 Stacked Skull	1			0	18	70	6		1	1kf							1ku,qty=3																																																																																							0
+7 Stacked Flawed Skull -> 3 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	7		1	1kf							1ku,qty=3																													1kf,qty=1																																																										0
+8 Stacked Flawed Skull -> 4 Stacked Skull	1			0	18	70	8		1	1kf							1ku,qty=4																																																																																							0
+9 Stacked Flawed Skull -> 4 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	9		1	1kf							1ku,qty=4																													1kf,qty=1																																																										0
+10 Stacked Flawed Skull -> 5 Stacked Skull	1			0	18	70	10		1	1kf							1ku,qty=5																																																																																							0
+11 Stacked Flawed Skull -> 5 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	11		1	1kf							1ku,qty=5																													1kf,qty=1																																																										0
+12 Stacked Flawed Skull -> 6 Stacked Skull	1			0	18	70	12		1	1kf							1ku,qty=6																																																																																							0
+13 Stacked Flawed Skull -> 6 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	13		1	1kf							1ku,qty=6																													1kf,qty=1																																																										0
+14 Stacked Flawed Skull -> 7 Stacked Skull	1			0	18	70	14		1	1kf							1ku,qty=7																																																																																							0
+15 Stacked Flawed Skull -> 7 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	15		1	1kf							1ku,qty=7																													1kf,qty=1																																																										0
+16 Stacked Flawed Skull -> 8 Stacked Skull	1			0	18	70	16		1	1kf							1ku,qty=8																																																																																							0
+17 Stacked Flawed Skull -> 8 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	17		1	1kf							1ku,qty=8																													1kf,qty=1																																																										0
+18 Stacked Flawed Skull -> 9 Stacked Skull	1			0	18	70	18		1	1kf							1ku,qty=9																																																																																							0
+19 Stacked Flawed Skull -> 9 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	19		1	1kf							1ku,qty=9																													1kf,qty=1																																																										0
+20 Stacked Flawed Skull -> 10 Stacked Skull	1			0	18	70	20		1	1kf							1ku,qty=10																																																																																							0
+21 Stacked Flawed Skull -> 10 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	21		1	1kf							1ku,qty=10																													1kf,qty=1																																																										0
+22 Stacked Flawed Skull -> 11 Stacked Skull	1			0	18	70	22		1	1kf							1ku,qty=11																																																																																							0
+23 Stacked Flawed Skull -> 11 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	23		1	1kf							1ku,qty=11																													1kf,qty=1																																																										0
+24 Stacked Flawed Skull -> 12 Stacked Skull	1			0	18	70	24		1	1kf							1ku,qty=12																																																																																							0
+25 Stacked Flawed Skull -> 12 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	25		1	1kf							1ku,qty=12																													1kf,qty=1																																																										0
+26 Stacked Flawed Skull -> 13 Stacked Skull	1			0	18	70	26		1	1kf							1ku,qty=13																																																																																							0
+27 Stacked Flawed Skull -> 13 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	27		1	1kf							1ku,qty=13																													1kf,qty=1																																																										0
+28 Stacked Flawed Skull -> 14 Stacked Skull	1			0	18	70	28		1	1kf							1ku,qty=14																																																																																							0
+29 Stacked Flawed Skull -> 14 Stacked Skull + 1 Stacked Flawed Skull	1			0	18	70	29		1	1kf							1ku,qty=14																													1kf,qty=1																																																										0
+30 Stacked Flawed Skull -> 15 Stacked Skull	1			0	18	70	30		1	1kf							1ku,qty=15																																																																																							0
+2 Stacked Skull -> 1 Stacked Flawless Skull	1			0	18	70	2		1	1ku							1kl,qty=1																																																																																							0
+3 Stacked Skull -> 1 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	3		1	1ku							1kl,qty=1																													1ku,qty=1																																																										0
+4 Stacked Skull -> 2 Stacked Flawless Skull	1			0	18	70	4		1	1ku							1kl,qty=2																																																																																							0
+5 Stacked Skull -> 2 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	5		1	1ku							1kl,qty=2																													1ku,qty=1																																																										0
+6 Stacked Skull -> 3 Stacked Flawless Skull	1			0	18	70	6		1	1ku							1kl,qty=3																																																																																							0
+7 Stacked Skull -> 3 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	7		1	1ku							1kl,qty=3																													1ku,qty=1																																																										0
+8 Stacked Skull -> 4 Stacked Flawless Skull	1			0	18	70	8		1	1ku							1kl,qty=4																																																																																							0
+9 Stacked Skull -> 4 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	9		1	1ku							1kl,qty=4																													1ku,qty=1																																																										0
+10 Stacked Skull -> 5 Stacked Flawless Skull	1			0	18	70	10		1	1ku							1kl,qty=5																																																																																							0
+11 Stacked Skull -> 5 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	11		1	1ku							1kl,qty=5																													1ku,qty=1																																																										0
+12 Stacked Skull -> 6 Stacked Flawless Skull	1			0	18	70	12		1	1ku							1kl,qty=6																																																																																							0
+13 Stacked Skull -> 6 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	13		1	1ku							1kl,qty=6																													1ku,qty=1																																																										0
+14 Stacked Skull -> 7 Stacked Flawless Skull	1			0	18	70	14		1	1ku							1kl,qty=7																																																																																							0
+15 Stacked Skull -> 7 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	15		1	1ku							1kl,qty=7																													1ku,qty=1																																																										0
+16 Stacked Skull -> 8 Stacked Flawless Skull	1			0	18	70	16		1	1ku							1kl,qty=8																																																																																							0
+17 Stacked Skull -> 8 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	17		1	1ku							1kl,qty=8																													1ku,qty=1																																																										0
+18 Stacked Skull -> 9 Stacked Flawless Skull	1			0	18	70	18		1	1ku							1kl,qty=9																																																																																							0
+19 Stacked Skull -> 9 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	19		1	1ku							1kl,qty=9																													1ku,qty=1																																																										0
+20 Stacked Skull -> 10 Stacked Flawless Skull	1			0	18	70	20		1	1ku							1kl,qty=10																																																																																							0
+21 Stacked Skull -> 10 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	21		1	1ku							1kl,qty=10																													1ku,qty=1																																																										0
+22 Stacked Skull -> 11 Stacked Flawless Skull	1			0	18	70	22		1	1ku							1kl,qty=11																																																																																							0
+23 Stacked Skull -> 11 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	23		1	1ku							1kl,qty=11																													1ku,qty=1																																																										0
+24 Stacked Skull -> 12 Stacked Flawless Skull	1			0	18	70	24		1	1ku							1kl,qty=12																																																																																							0
+25 Stacked Skull -> 12 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	25		1	1ku							1kl,qty=12																													1ku,qty=1																																																										0
+26 Stacked Skull -> 13 Stacked Flawless Skull	1			0	18	70	26		1	1ku							1kl,qty=13																																																																																							0
+27 Stacked Skull -> 13 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	27		1	1ku							1kl,qty=13																													1ku,qty=1																																																										0
+28 Stacked Skull -> 14 Stacked Flawless Skull	1			0	18	70	28		1	1ku							1kl,qty=14																																																																																							0
+29 Stacked Skull -> 14 Stacked Flawless Skull + 1 Stacked Skull	1			0	18	70	29		1	1ku							1kl,qty=14																													1ku,qty=1																																																										0
+30 Stacked Skull -> 15 Stacked Flawless Skull	1			0	18	70	30		1	1ku							1kl,qty=15																																																																																							0
+2 Stacked Flawless Skull -> 1 Stacked Perfect Skull	1			0	18	70	2		1	1kl							1kz,qty=1																																																																																							0
+3 Stacked Flawless Skull -> 1 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	3		1	1kl							1kz,qty=1																													1kl,qty=1																																																										0
+4 Stacked Flawless Skull -> 2 Stacked Perfect Skull	1			0	18	70	4		1	1kl							1kz,qty=2																																																																																							0
+5 Stacked Flawless Skull -> 2 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	5		1	1kl							1kz,qty=2																													1kl,qty=1																																																										0
+6 Stacked Flawless Skull -> 3 Stacked Perfect Skull	1			0	18	70	6		1	1kl							1kz,qty=3																																																																																							0
+7 Stacked Flawless Skull -> 3 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	7		1	1kl							1kz,qty=3																													1kl,qty=1																																																										0
+8 Stacked Flawless Skull -> 4 Stacked Perfect Skull	1			0	18	70	8		1	1kl							1kz,qty=4																																																																																							0
+9 Stacked Flawless Skull -> 4 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	9		1	1kl							1kz,qty=4																													1kl,qty=1																																																										0
+10 Stacked Flawless Skull -> 5 Stacked Perfect Skull	1			0	18	70	10		1	1kl							1kz,qty=5																																																																																							0
+11 Stacked Flawless Skull -> 5 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	11		1	1kl							1kz,qty=5																													1kl,qty=1																																																										0
+12 Stacked Flawless Skull -> 6 Stacked Perfect Skull	1			0	18	70	12		1	1kl							1kz,qty=6																																																																																							0
+13 Stacked Flawless Skull -> 6 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	13		1	1kl							1kz,qty=6																													1kl,qty=1																																																										0
+14 Stacked Flawless Skull -> 7 Stacked Perfect Skull	1			0	18	70	14		1	1kl							1kz,qty=7																																																																																							0
+15 Stacked Flawless Skull -> 7 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	15		1	1kl							1kz,qty=7																													1kl,qty=1																																																										0
+16 Stacked Flawless Skull -> 8 Stacked Perfect Skull	1			0	18	70	16		1	1kl							1kz,qty=8																																																																																							0
+17 Stacked Flawless Skull -> 8 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	17		1	1kl							1kz,qty=8																													1kl,qty=1																																																										0
+18 Stacked Flawless Skull -> 9 Stacked Perfect Skull	1			0	18	70	18		1	1kl							1kz,qty=9																																																																																							0
+19 Stacked Flawless Skull -> 9 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	19		1	1kl							1kz,qty=9																													1kl,qty=1																																																										0
+20 Stacked Flawless Skull -> 10 Stacked Perfect Skull	1			0	18	70	20		1	1kl							1kz,qty=10																																																																																							0
+21 Stacked Flawless Skull -> 10 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	21		1	1kl							1kz,qty=10																													1kl,qty=1																																																										0
+22 Stacked Flawless Skull -> 11 Stacked Perfect Skull	1			0	18	70	22		1	1kl							1kz,qty=11																																																																																							0
+23 Stacked Flawless Skull -> 11 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	23		1	1kl							1kz,qty=11																													1kl,qty=1																																																										0
+24 Stacked Flawless Skull -> 12 Stacked Perfect Skull	1			0	18	70	24		1	1kl							1kz,qty=12																																																																																							0
+25 Stacked Flawless Skull -> 12 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	25		1	1kl							1kz,qty=12																													1kl,qty=1																																																										0
+26 Stacked Flawless Skull -> 13 Stacked Perfect Skull	1			0	18	70	26		1	1kl							1kz,qty=13																																																																																							0
+27 Stacked Flawless Skull -> 13 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	27		1	1kl							1kz,qty=13																													1kl,qty=1																																																										0
+28 Stacked Flawless Skull -> 14 Stacked Perfect Skull	1			0	18	70	28		1	1kl							1kz,qty=14																																																																																							0
+29 Stacked Flawless Skull -> 14 Stacked Perfect Skull + 1 Stacked Flawless Skull	1			0	18	70	29		1	1kl							1kz,qty=14																													1kl,qty=1																																																										0
+30 Stacked Flawless Skull -> 15 Stacked Perfect Skull	1			0	18	70	30		1	1kl							1kz,qty=15																																																																																							0
+2 Stacked Chipped Topaz -> 1 Stacked Flawed Topaz	1			0	18	70	2		1	1cy							1fy,qty=1																																																																																							0
+3 Stacked Chipped Topaz -> 1 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	3		1	1cy							1fy,qty=1																													1cy,qty=1																																																										0
+4 Stacked Chipped Topaz -> 2 Stacked Flawed Topaz	1			0	18	70	4		1	1cy							1fy,qty=2																																																																																							0
+5 Stacked Chipped Topaz -> 2 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	5		1	1cy							1fy,qty=2																													1cy,qty=1																																																										0
+6 Stacked Chipped Topaz -> 3 Stacked Flawed Topaz	1			0	18	70	6		1	1cy							1fy,qty=3																																																																																							0
+7 Stacked Chipped Topaz -> 3 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	7		1	1cy							1fy,qty=3																													1cy,qty=1																																																										0
+8 Stacked Chipped Topaz -> 4 Stacked Flawed Topaz	1			0	18	70	8		1	1cy							1fy,qty=4																																																																																							0
+9 Stacked Chipped Topaz -> 4 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	9		1	1cy							1fy,qty=4																													1cy,qty=1																																																										0
+10 Stacked Chipped Topaz -> 5 Stacked Flawed Topaz	1			0	18	70	10		1	1cy							1fy,qty=5																																																																																							0
+11 Stacked Chipped Topaz -> 5 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	11		1	1cy							1fy,qty=5																													1cy,qty=1																																																										0
+12 Stacked Chipped Topaz -> 6 Stacked Flawed Topaz	1			0	18	70	12		1	1cy							1fy,qty=6																																																																																							0
+13 Stacked Chipped Topaz -> 6 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	13		1	1cy							1fy,qty=6																													1cy,qty=1																																																										0
+14 Stacked Chipped Topaz -> 7 Stacked Flawed Topaz	1			0	18	70	14		1	1cy							1fy,qty=7																																																																																							0
+15 Stacked Chipped Topaz -> 7 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	15		1	1cy							1fy,qty=7																													1cy,qty=1																																																										0
+16 Stacked Chipped Topaz -> 8 Stacked Flawed Topaz	1			0	18	70	16		1	1cy							1fy,qty=8																																																																																							0
+17 Stacked Chipped Topaz -> 8 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	17		1	1cy							1fy,qty=8																													1cy,qty=1																																																										0
+18 Stacked Chipped Topaz -> 9 Stacked Flawed Topaz	1			0	18	70	18		1	1cy							1fy,qty=9																																																																																							0
+19 Stacked Chipped Topaz -> 9 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	19		1	1cy							1fy,qty=9																													1cy,qty=1																																																										0
+20 Stacked Chipped Topaz -> 10 Stacked Flawed Topaz	1			0	18	70	20		1	1cy							1fy,qty=10																																																																																							0
+21 Stacked Chipped Topaz -> 10 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	21		1	1cy							1fy,qty=10																													1cy,qty=1																																																										0
+22 Stacked Chipped Topaz -> 11 Stacked Flawed Topaz	1			0	18	70	22		1	1cy							1fy,qty=11																																																																																							0
+23 Stacked Chipped Topaz -> 11 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	23		1	1cy							1fy,qty=11																													1cy,qty=1																																																										0
+24 Stacked Chipped Topaz -> 12 Stacked Flawed Topaz	1			0	18	70	24		1	1cy							1fy,qty=12																																																																																							0
+25 Stacked Chipped Topaz -> 12 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	25		1	1cy							1fy,qty=12																													1cy,qty=1																																																										0
+26 Stacked Chipped Topaz -> 13 Stacked Flawed Topaz	1			0	18	70	26		1	1cy							1fy,qty=13																																																																																							0
+27 Stacked Chipped Topaz -> 13 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	27		1	1cy							1fy,qty=13																													1cy,qty=1																																																										0
+28 Stacked Chipped Topaz -> 14 Stacked Flawed Topaz	1			0	18	70	28		1	1cy							1fy,qty=14																																																																																							0
+29 Stacked Chipped Topaz -> 14 Stacked Flawed Topaz + 1 Stacked Chipped Topaz	1			0	18	70	29		1	1cy							1fy,qty=14																													1cy,qty=1																																																										0
+30 Stacked Chipped Topaz -> 15 Stacked Flawed Topaz	1			0	18	70	30		1	1cy							1fy,qty=15																																																																																							0
+2 Stacked Flawed Topaz -> 1 Stacked Topaz	1			0	18	70	2		1	1fy							1sy,qty=1																																																																																							0
+3 Stacked Flawed Topaz -> 1 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	3		1	1fy							1sy,qty=1																													1fy,qty=1																																																										0
+4 Stacked Flawed Topaz -> 2 Stacked Topaz	1			0	18	70	4		1	1fy							1sy,qty=2																																																																																							0
+5 Stacked Flawed Topaz -> 2 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	5		1	1fy							1sy,qty=2																													1fy,qty=1																																																										0
+6 Stacked Flawed Topaz -> 3 Stacked Topaz	1			0	18	70	6		1	1fy							1sy,qty=3																																																																																							0
+7 Stacked Flawed Topaz -> 3 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	7		1	1fy							1sy,qty=3																													1fy,qty=1																																																										0
+8 Stacked Flawed Topaz -> 4 Stacked Topaz	1			0	18	70	8		1	1fy							1sy,qty=4																																																																																							0
+9 Stacked Flawed Topaz -> 4 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	9		1	1fy							1sy,qty=4																													1fy,qty=1																																																										0
+10 Stacked Flawed Topaz -> 5 Stacked Topaz	1			0	18	70	10		1	1fy							1sy,qty=5																																																																																							0
+11 Stacked Flawed Topaz -> 5 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	11		1	1fy							1sy,qty=5																													1fy,qty=1																																																										0
+12 Stacked Flawed Topaz -> 6 Stacked Topaz	1			0	18	70	12		1	1fy							1sy,qty=6																																																																																							0
+13 Stacked Flawed Topaz -> 6 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	13		1	1fy							1sy,qty=6																													1fy,qty=1																																																										0
+14 Stacked Flawed Topaz -> 7 Stacked Topaz	1			0	18	70	14		1	1fy							1sy,qty=7																																																																																							0
+15 Stacked Flawed Topaz -> 7 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	15		1	1fy							1sy,qty=7																													1fy,qty=1																																																										0
+16 Stacked Flawed Topaz -> 8 Stacked Topaz	1			0	18	70	16		1	1fy							1sy,qty=8																																																																																							0
+17 Stacked Flawed Topaz -> 8 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	17		1	1fy							1sy,qty=8																													1fy,qty=1																																																										0
+18 Stacked Flawed Topaz -> 9 Stacked Topaz	1			0	18	70	18		1	1fy							1sy,qty=9																																																																																							0
+19 Stacked Flawed Topaz -> 9 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	19		1	1fy							1sy,qty=9																													1fy,qty=1																																																										0
+20 Stacked Flawed Topaz -> 10 Stacked Topaz	1			0	18	70	20		1	1fy							1sy,qty=10																																																																																							0
+21 Stacked Flawed Topaz -> 10 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	21		1	1fy							1sy,qty=10																													1fy,qty=1																																																										0
+22 Stacked Flawed Topaz -> 11 Stacked Topaz	1			0	18	70	22		1	1fy							1sy,qty=11																																																																																							0
+23 Stacked Flawed Topaz -> 11 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	23		1	1fy							1sy,qty=11																													1fy,qty=1																																																										0
+24 Stacked Flawed Topaz -> 12 Stacked Topaz	1			0	18	70	24		1	1fy							1sy,qty=12																																																																																							0
+25 Stacked Flawed Topaz -> 12 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	25		1	1fy							1sy,qty=12																													1fy,qty=1																																																										0
+26 Stacked Flawed Topaz -> 13 Stacked Topaz	1			0	18	70	26		1	1fy							1sy,qty=13																																																																																							0
+27 Stacked Flawed Topaz -> 13 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	27		1	1fy							1sy,qty=13																													1fy,qty=1																																																										0
+28 Stacked Flawed Topaz -> 14 Stacked Topaz	1			0	18	70	28		1	1fy							1sy,qty=14																																																																																							0
+29 Stacked Flawed Topaz -> 14 Stacked Topaz + 1 Stacked Flawed Topaz	1			0	18	70	29		1	1fy							1sy,qty=14																													1fy,qty=1																																																										0
+30 Stacked Flawed Topaz -> 15 Stacked Topaz	1			0	18	70	30		1	1fy							1sy,qty=15																																																																																							0
+2 Stacked Topaz -> 1 Stacked Flawless Topaz	1			0	18	70	2		1	1sy							1ly,qty=1																																																																																							0
+3 Stacked Topaz -> 1 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	3		1	1sy							1ly,qty=1																													1sy,qty=1																																																										0
+4 Stacked Topaz -> 2 Stacked Flawless Topaz	1			0	18	70	4		1	1sy							1ly,qty=2																																																																																							0
+5 Stacked Topaz -> 2 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	5		1	1sy							1ly,qty=2																													1sy,qty=1																																																										0
+6 Stacked Topaz -> 3 Stacked Flawless Topaz	1			0	18	70	6		1	1sy							1ly,qty=3																																																																																							0
+7 Stacked Topaz -> 3 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	7		1	1sy							1ly,qty=3																													1sy,qty=1																																																										0
+8 Stacked Topaz -> 4 Stacked Flawless Topaz	1			0	18	70	8		1	1sy							1ly,qty=4																																																																																							0
+9 Stacked Topaz -> 4 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	9		1	1sy							1ly,qty=4																													1sy,qty=1																																																										0
+10 Stacked Topaz -> 5 Stacked Flawless Topaz	1			0	18	70	10		1	1sy							1ly,qty=5																																																																																							0
+11 Stacked Topaz -> 5 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	11		1	1sy							1ly,qty=5																													1sy,qty=1																																																										0
+12 Stacked Topaz -> 6 Stacked Flawless Topaz	1			0	18	70	12		1	1sy							1ly,qty=6																																																																																							0
+13 Stacked Topaz -> 6 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	13		1	1sy							1ly,qty=6																													1sy,qty=1																																																										0
+14 Stacked Topaz -> 7 Stacked Flawless Topaz	1			0	18	70	14		1	1sy							1ly,qty=7																																																																																							0
+15 Stacked Topaz -> 7 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	15		1	1sy							1ly,qty=7																													1sy,qty=1																																																										0
+16 Stacked Topaz -> 8 Stacked Flawless Topaz	1			0	18	70	16		1	1sy							1ly,qty=8																																																																																							0
+17 Stacked Topaz -> 8 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	17		1	1sy							1ly,qty=8																													1sy,qty=1																																																										0
+18 Stacked Topaz -> 9 Stacked Flawless Topaz	1			0	18	70	18		1	1sy							1ly,qty=9																																																																																							0
+19 Stacked Topaz -> 9 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	19		1	1sy							1ly,qty=9																													1sy,qty=1																																																										0
+20 Stacked Topaz -> 10 Stacked Flawless Topaz	1			0	18	70	20		1	1sy							1ly,qty=10																																																																																							0
+21 Stacked Topaz -> 10 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	21		1	1sy							1ly,qty=10																													1sy,qty=1																																																										0
+22 Stacked Topaz -> 11 Stacked Flawless Topaz	1			0	18	70	22		1	1sy							1ly,qty=11																																																																																							0
+23 Stacked Topaz -> 11 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	23		1	1sy							1ly,qty=11																													1sy,qty=1																																																										0
+24 Stacked Topaz -> 12 Stacked Flawless Topaz	1			0	18	70	24		1	1sy							1ly,qty=12																																																																																							0
+25 Stacked Topaz -> 12 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	25		1	1sy							1ly,qty=12																													1sy,qty=1																																																										0
+26 Stacked Topaz -> 13 Stacked Flawless Topaz	1			0	18	70	26		1	1sy							1ly,qty=13																																																																																							0
+27 Stacked Topaz -> 13 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	27		1	1sy							1ly,qty=13																													1sy,qty=1																																																										0
+28 Stacked Topaz -> 14 Stacked Flawless Topaz	1			0	18	70	28		1	1sy							1ly,qty=14																																																																																							0
+29 Stacked Topaz -> 14 Stacked Flawless Topaz + 1 Stacked Topaz	1			0	18	70	29		1	1sy							1ly,qty=14																													1sy,qty=1																																																										0
+30 Stacked Topaz -> 15 Stacked Flawless Topaz	1			0	18	70	30		1	1sy							1ly,qty=15																																																																																							0
+2 Stacked Flawless Topaz -> 1 Stacked Perfect Topaz	1			0	18	70	2		1	1ly							1py,qty=1																																																																																							0
+3 Stacked Flawless Topaz -> 1 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	3		1	1ly							1py,qty=1																													1ly,qty=1																																																										0
+4 Stacked Flawless Topaz -> 2 Stacked Perfect Topaz	1			0	18	70	4		1	1ly							1py,qty=2																																																																																							0
+5 Stacked Flawless Topaz -> 2 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	5		1	1ly							1py,qty=2																													1ly,qty=1																																																										0
+6 Stacked Flawless Topaz -> 3 Stacked Perfect Topaz	1			0	18	70	6		1	1ly							1py,qty=3																																																																																							0
+7 Stacked Flawless Topaz -> 3 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	7		1	1ly							1py,qty=3																													1ly,qty=1																																																										0
+8 Stacked Flawless Topaz -> 4 Stacked Perfect Topaz	1			0	18	70	8		1	1ly							1py,qty=4																																																																																							0
+9 Stacked Flawless Topaz -> 4 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	9		1	1ly							1py,qty=4																													1ly,qty=1																																																										0
+10 Stacked Flawless Topaz -> 5 Stacked Perfect Topaz	1			0	18	70	10		1	1ly							1py,qty=5																																																																																							0
+11 Stacked Flawless Topaz -> 5 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	11		1	1ly							1py,qty=5																													1ly,qty=1																																																										0
+12 Stacked Flawless Topaz -> 6 Stacked Perfect Topaz	1			0	18	70	12		1	1ly							1py,qty=6																																																																																							0
+13 Stacked Flawless Topaz -> 6 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	13		1	1ly							1py,qty=6																													1ly,qty=1																																																										0
+14 Stacked Flawless Topaz -> 7 Stacked Perfect Topaz	1			0	18	70	14		1	1ly							1py,qty=7																																																																																							0
+15 Stacked Flawless Topaz -> 7 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	15		1	1ly							1py,qty=7																													1ly,qty=1																																																										0
+16 Stacked Flawless Topaz -> 8 Stacked Perfect Topaz	1			0	18	70	16		1	1ly							1py,qty=8																																																																																							0
+17 Stacked Flawless Topaz -> 8 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	17		1	1ly							1py,qty=8																													1ly,qty=1																																																										0
+18 Stacked Flawless Topaz -> 9 Stacked Perfect Topaz	1			0	18	70	18		1	1ly							1py,qty=9																																																																																							0
+19 Stacked Flawless Topaz -> 9 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	19		1	1ly							1py,qty=9																													1ly,qty=1																																																										0
+20 Stacked Flawless Topaz -> 10 Stacked Perfect Topaz	1			0	18	70	20		1	1ly							1py,qty=10																																																																																							0
+21 Stacked Flawless Topaz -> 10 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	21		1	1ly							1py,qty=10																													1ly,qty=1																																																										0
+22 Stacked Flawless Topaz -> 11 Stacked Perfect Topaz	1			0	18	70	22		1	1ly							1py,qty=11																																																																																							0
+23 Stacked Flawless Topaz -> 11 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	23		1	1ly							1py,qty=11																													1ly,qty=1																																																										0
+24 Stacked Flawless Topaz -> 12 Stacked Perfect Topaz	1			0	18	70	24		1	1ly							1py,qty=12																																																																																							0
+25 Stacked Flawless Topaz -> 12 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	25		1	1ly							1py,qty=12																													1ly,qty=1																																																										0
+26 Stacked Flawless Topaz -> 13 Stacked Perfect Topaz	1			0	18	70	26		1	1ly							1py,qty=13																																																																																							0
+27 Stacked Flawless Topaz -> 13 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	27		1	1ly							1py,qty=13																													1ly,qty=1																																																										0
+28 Stacked Flawless Topaz -> 14 Stacked Perfect Topaz	1			0	18	70	28		1	1ly							1py,qty=14																																																																																							0
+29 Stacked Flawless Topaz -> 14 Stacked Perfect Topaz + 1 Stacked Flawless Topaz	1			0	18	70	29		1	1ly							1py,qty=14																													1ly,qty=1																																																										0
+30 Stacked Flawless Topaz -> 15 Stacked Perfect Topaz	1			0	18	70	30		1	1ly							1py,qty=15																																																																																							0
 Stack of 2 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	2		1	misc							"usetype,qty=1"																													"usetype,qty=1"																																																										0
 Stack of 3 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	3		1	misc							"usetype,qty=2"																													"usetype,qty=1"																																																										0
 Stack of 4 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	4		1	misc							"usetype,qty=3"																													"usetype,qty=1"																																																										0
@@ -631,6 +1443,35 @@ Stack of 27 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	27		1	misc							"us
 Stack of 28 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	28		1	misc							"usetype,qty=27"																													"usetype,qty=1"																																																										0
 Stack of 29 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	29		1	misc							"usetype,qty=28"																													"usetype,qty=1"																																																										0
 Stack of 30 Misc (any) -> Stack-1 + Single Misc	1			0	18	70	30		1	misc							"usetype,qty=29"																													"usetype,qty=1"																																																										0
+Stack of 2 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	2		2	misc	tsc						"usetype,qty=1"																													"usetype,qty=1"																													tsc																													0
+Stack of 3 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	3		2	misc	tsc						"usetype,qty=2"																													"usetype,qty=1"																													tsc																													0
+Stack of 4 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	4		2	misc	tsc						"usetype,qty=3"																													"usetype,qty=1"																													tsc																													0
+Stack of 5 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	5		2	misc	tsc						"usetype,qty=4"																													"usetype,qty=1"																													tsc																													0
+Stack of 6 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	6		2	misc	tsc						"usetype,qty=5"																													"usetype,qty=1"																													tsc																													0
+Stack of 7 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	7		2	misc	tsc						"usetype,qty=6"																													"usetype,qty=1"																													tsc																													0
+Stack of 8 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	8		2	misc	tsc						"usetype,qty=7"																													"usetype,qty=1"																													tsc																													0
+Stack of 9 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	9		2	misc	tsc						"usetype,qty=8"																													"usetype,qty=1"																													tsc																													0
+Stack of 10 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	10		2	misc	tsc						"usetype,qty=9"																													"usetype,qty=1"																													tsc																													0
+Stack of 11 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	11		2	misc	tsc						"usetype,qty=10"																													"usetype,qty=1"																													tsc																													0
+Stack of 12 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	12		2	misc	tsc						"usetype,qty=11"																													"usetype,qty=1"																													tsc																													0
+Stack of 13 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	13		2	misc	tsc						"usetype,qty=12"																													"usetype,qty=1"																													tsc																													0
+Stack of 14 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	14		2	misc	tsc						"usetype,qty=13"																													"usetype,qty=1"																													tsc																													0
+Stack of 15 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	15		2	misc	tsc						"usetype,qty=14"																													"usetype,qty=1"																													tsc																													0
+Stack of 16 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	16		2	misc	tsc						"usetype,qty=15"																													"usetype,qty=1"																													tsc																													0
+Stack of 17 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	17		2	misc	tsc						"usetype,qty=16"																													"usetype,qty=1"																													tsc																													0
+Stack of 18 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	18		2	misc	tsc						"usetype,qty=17"																													"usetype,qty=1"																													tsc																													0
+Stack of 19 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	19		2	misc	tsc						"usetype,qty=18"																													"usetype,qty=1"																													tsc																													0
+Stack of 20 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	20		2	misc	tsc						"usetype,qty=19"																													"usetype,qty=1"																													tsc																													0
+Stack of 21 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	21		2	misc	tsc						"usetype,qty=20"																													"usetype,qty=1"																													tsc																													0
+Stack of 22 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	22		2	misc	tsc						"usetype,qty=21"																													"usetype,qty=1"																													tsc																													0
+Stack of 23 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	23		2	misc	tsc						"usetype,qty=22"																													"usetype,qty=1"																													tsc																													0
+Stack of 24 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	24		2	misc	tsc						"usetype,qty=23"																													"usetype,qty=1"																													tsc																													0
+Stack of 25 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	25		2	misc	tsc						"usetype,qty=24"																													"usetype,qty=1"																													tsc																													0
+Stack of 26 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	26		2	misc	tsc						"usetype,qty=25"																													"usetype,qty=1"																													tsc																													0
+Stack of 27 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	27		2	misc	tsc						"usetype,qty=26"																													"usetype,qty=1"																													tsc																													0
+Stack of 28 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	28		2	misc	tsc						"usetype,qty=27"																													"usetype,qty=1"																													tsc																													0
+Stack of 29 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	29		2	misc	tsc						"usetype,qty=28"																													"usetype,qty=1"																													tsc																													0
+Stack of 30 Misc (any) + Scroll of Town Portal -> Stack-1 + Single Misc + Scroll of Town Portal	1			100	18	70	30		2	misc	tsc						"usetype,qty=29"																													"usetype,qty=1"																													tsc																													0
 3 Perfect Amethyst -> 3x Stacked Perfect Amethyst	1			0					3	"gpv,qty=3"							"1pv,qty=3"																																																																																							0
 1 Stacked Perfect Amethyst -> 1 Unstacked Perfect Amethyst	1			0	18	70	1		1	1pv							gpv																																																																																							0
 3 Flawless Amethyst -> 3x Stacked Flawless Amethyst	1			0					3	"gzv,qty=3"							"1zv,qty=3"																																																																																							0
@@ -1118,8 +1959,8 @@ Flawless Skull + Gem Bag -> +8 to Skull Credits	1			0					2	Gem Bag	skl						use
 Flawless Sapphire + Gem Bag -> +8 to Sapphire Credits	1			0					2	Gem Bag	glb						usetype,mod				stacked/gem/sapphire	100		8	8																																																																															0
 Topaz + Gem Bag -> +4 to Topaz Credits	1			0					2	Gem Bag	gsy						usetype,mod				stacked/gem/topaz	100		4	4																																																																															0
 Amethyst + Gem Bag -> +4 to Amethyst Credits	1			0					2	Gem Bag	gsv						usetype,mod				stacked/gem/amethyst	100		4	4																																																																															0
-Diamond + Gem Bag -> +4 to Diamond Credits	1			0					2	Gem Bag	gpw						usetype,mod				stacked/gem/diamond	100		4	4																																																																															0
-Emerald + Gem Bag -> +4 to Emerald Credits	1			0					2	Gem Bag	gsw						usetype,mod				stacked/gem/emerald	100		4	4																																																																															0
+Diamond + Gem Bag -> +4 to Diamond Credits	1			0					2	Gem Bag	gsw						usetype,mod				stacked/gem/diamond	100		4	4																																																																															0
+Emerald + Gem Bag -> +4 to Emerald Credits	1			0					2	Gem Bag	gsg						usetype,mod				stacked/gem/emerald	100		4	4																																																																															0
 Ruby + Gem Bag -> +4 to Ruby Credits	1			0					2	Gem Bag	gsr						usetype,mod				stacked/gem/ruby	100		4	4																																																																															0
 Skull + Gem Bag -> +4 to Skull Credits	1			0					2	Gem Bag	sku						usetype,mod				stacked/gem/skull	100		4	4																																																																															0
 Sapphire + Gem Bag -> +4 to Sapphire Credits	1			0					2	Gem Bag	gsb						usetype,mod				stacked/gem/sapphire	100		4	4																																																																															0
